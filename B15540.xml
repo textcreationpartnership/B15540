@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Martin Mark-all, beadle of Bridevvell; his defence and answere to the Belman of London Discouering the long-concealed originall and regiment of rogues, when they first began to take head, and how they haue succeeded one the other successiuely vnto the sixe and twentieth yeare of King Henry the eight, gathered out of the chronicle of crackeropes, and (as they tearme it) the legend of lossels. By S.R.</title>
+            <author>Rid, Samuel.</author>
+         </titleStmt>
+         <extent>Approx. 115KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15540</idno><idno type="EEBO-CITATION">99851457</idno>
+  <idno type="VID">176953</idno>
+  <idno type="EEBO-PROQUEST">2240901472</idno>
+  <idno type="STC">STC 21028.5</idno>
+  <idno type="STC">ESTC S116240</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99851457e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176953)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 728:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Martin Mark-all, beadle of Bridevvell; his defence and answere to the Belman of London Discouering the long-concealed originall and regiment of rogues, when they first began to take head, and how they haue succeeded one the other successiuely vnto the sixe and twentieth yeare of King Henry the eight, gathered out of the chronicle of crackeropes, and (as they tearme it) the legend of lossels. By S.R.</title>
+                  <author>Rid, Samuel.</author>
+                  <author>Rowlands, Samuel, 1570?-1630?, attributed name.</author>
+               </titleStmt>
+               <extent>[62] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by John Windet] for Iohn Budge, and Richard Bonian,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1610.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>S.R. = Samuel Rid; formerly attributed to Samuel Rowlands.</note>
+                  <note>A reply to "The belman of London" and "Lanthorne and candle-light" by Thomas Dekker.</note>
+                  <note>Printer's name from STC addendum.</note>
+                  <note>Signatures: A⁴ (-A1, +[par.]² ) B-G⁴ H² .</note>
+                  <note>Running title reads: Martin Marke-all his apologie to the Bel-man of London.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Identified as STC 21400 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Dekker, Thomas, ca. 1572-1632. --  Belman of London --  Early works to 1800.</term>
+               <term type="personal_name">Dekker, Thomas, ca. 1572-1632. --  Lanthorne and candle-light --  Early works to 1800.</term>
+               <term type="topical_term">Crime --  England --  Early works to 1800.</term>
+               <term type="topical_term">Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176953:1"/>
+            <p>MARTIN MARK-ALL, BEADLE OF BRIDEWELL; His defence and Answere to the Belman of LONDON.</p>
+            <p>Discouering the long-concealed Originall and Regi<g ref="char:EOLhyphen"/>ment of Rogues, when they first began to take head, and how they haue succeeded one the other successiuely vnto the sixe and twentieth yeare of King HENRY the eight, gathered out of the Chro<g ref="char:EOLhyphen"/>nicle of Crackeropes, and (as they terme it) the Legend of LOSSELS.</p>
+            <p>By S. R.</p>
+            <q>
+               <l>Oderunt peccare boni virtutis amore,</l>
+               <l>Oderunt peccare mali formidine poenae.</l>
+            </q>
+            <p>LONDON Printed for Iohn Budge, and Richard Bonian. 1610.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:176953:4"/>
+            <head>To the courteous Reader.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Entlemen, a Preface to a Pamphlet is as foolish as fancied, and verses <hi>(in lau<g ref="char:EOLhyphen"/>dem authoris)</hi> are farre worse then a Horse-coursers commendation of a Smythfield-Iade, the one too too com<g ref="char:EOLhyphen"/>mon, the other friuolous: for mine owne part, if the inside of my labour cannot winne your content, let the outside of the subiect shew his authours intent: I know I shall be contemned of some for being too forward, controlled of others who perhaps are rub<g ref="char:EOLhyphen"/>bed on the sore, and condemned of a third sort for a loose stile and lame phrase: Indeed Gentlemen this I doe confesse, I shall bring vpon this great Stage of fooles (for <hi>omne sub Sole vanitas</hi>) a peece of folly; if such as count themselues wise dare venter the rea<g ref="char:EOLhyphen"/>ding of it ouer, I cannot let them, but when they haue perused it, and finde therein nothing but folly, let them reprehend neither the worke nor workema<g ref="char:EOLhyphen"/>ster, but rather themselues, in that they would spend their time so foolishly, being be<g ref="char:EOLhyphen"/>fore warned of so foolish and idle a subiect.</p>
+            <closer>
+               <signed>Yours in loue, <hi>S. R.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176953:2"/>
+            <pb facs="tcp:176953:2"/>
+            <head>MARTIN MARK-ALL his Apologie, to the Bel-man <hi>of London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Here hath béen of late dayes great paines taken on the part of the good old Bel-man of London, in discouering as hée thinks, a new<g ref="char:EOLhyphen"/>found Nation and People, Let it be so for this time: hereupon much adoe was made in setting forth their liues, order of liuing, method of spéech, and vsuall méetings, with diuers other things thereunto appertaining. These volumes and papers, now spread euerie where, so that euerie Iacke-boy now can say as well as the proudest of that fraternitie, (will you wapp for a wyn, or tranie for a make,) the gentle Company of Cursitours began now to stirre, and looke about them, and hauing gathered together a Conuoca<g ref="char:EOLhyphen"/>tion of Canting Caterpillars, as wel in the North parts at the<note n="*" place="margin">Where at this day the Rogues of the North part, once euerie three yeeres assemble in the night, because they will not be seene and espied, being a place to those that know it verie fit for that purpose, it being hol<g ref="char:EOLhyphen"/>low, and made spacious vnder ground, at first by estimation halfe a mile in compasse, but it hath such turnings and roundings in it, that a man may easily be lost, if hee en<g ref="char:EOLhyphen"/>ter not with a guide.</note> Diuels arse apeake, as in the South, They dili<g ref="char:EOLhyphen"/>gently enquired, and straight search was made, whether any had reuolted from that faithles fellowship, herupon euery one gaue his verdict, some supposed that it might be some one, that hauing ventured too farre beyond wit and good taking héede was fallen into the hands of the Magistrate, and carried to the trayning Cheates, where in shew of a penitent heart, and remoarse of his good time ill spent, turned the cocke, and let out all: Others
+<pb facs="tcp:176953:3"/> thought it might be some spie-knaue, that hauing little to doe, tooke vpon him the habite and forme of an Hermite, and so by dayly commercing and discoursing learned in time the mysterie and knowlege of this ignoble prosessi<g ref="char:EOLhyphen"/>on: and others because it smelt a of a study, déemed it to be some of their owne companie, that had béen at some frée-schoole, and belike because hée would be hand<g ref="char:EOLhyphen"/>some against a good time, tooke pen and inke, and wrote of that subiect, thus, <hi>Tot homines, tot sententiae,</hi> so many men, so many mindes. And all because the spightfull Poet would not set too his name. At last vp starts an old Cacodemicall Academicke with his frize bonnet, and giues them al to know, that this inuectiue was set foorth, made, and printed aboue Fortie yéeres agoe. And being then called, A caueat for Cursitors, is now newly printed, and termed, The Bel-man of Lon<g ref="char:EOLhyphen"/>don, made at first by one Master <hi>Harman</hi> a Iustice of Peace in Kent, in Quéene <hi>Maries</hi> daies, he being then a<g ref="char:EOLhyphen"/>bout ten yéeres of age.</p>
+            <p>At this newes the whole Company of Clapperdudgi<g ref="char:EOLhyphen"/>ons, were indifferently well resolued, yet their mindes were not fully satisfied, because they knew not by whom this booke was set out, hereupon for this time the Syna<g ref="char:EOLhyphen"/>gogue of Sathan was dismissed, and the whole Regi<g ref="char:EOLhyphen"/>ment of Raggamuffins betooke themselues to their v<g ref="char:EOLhyphen"/>suall occupations, expecting that this villanous If wil<g ref="char:EOLhyphen"/>ler of theirs, at one time or other, would be knowne and brought to light. Not long after, this peruerse perse<g ref="char:EOLhyphen"/>cutor of poore Pilgrims, not content with the former iniurie done against them, but séeking by all meanes, to roote out and scatter them, if it were possible out of the land, raises new forces, and persecutes them, with fire, and sword, and deadly warre.</p>
+            <p>The furie and malice of the Bel-man once again bru<g ref="char:EOLhyphen"/>ted abroad, and they not knowing the author of the first, now grow outragious, begin to curse with Bell, booke,
+<pb facs="tcp:176953:3"/> and candle: That if he were to be knowne, they would spare neither cost nor labour for the search, and enquirie of him forth.</p>
+            <p>Meane time the Rogues of the North, that had before met at the Diuels arse apeake, hearing of this vnexpec<g ref="char:EOLhyphen"/>ted newes with rage inflamed, trot on their lustie ten<g ref="char:EOLhyphen"/>toes, with bagge and baggage toward the Southerne Regiment, who being entertained with such welcomes and complements, as are vsed among themselues. They presently send to the Beadle of the Hall, to summon and warne, all of that Company and Fraternitie, to make his personal appearance at the Swan with fiue necks in Kings stréete as the fittest place to receiue so ignoble a Court of Crack-ropes.</p>
+            <p>The Congregation of Caterpillars gathered together, and the Court of Couzoners now set: vp starts a ragged ouer roasted Iacke of the Clocke house with his crutch in his hand, in stead of a Tip-staffe, makes thrée solemne O yes, which done with a fierie face, and filthy Throat, he proclaymes, as followeth.</p>
+            <p>All maner of people that were summoned to appeare here this day,<note place="margin">Corporall Fize.</note> before Corporall Fize chiefe Commander of the Regiment, and Corporation of good fellowes, and Maunders, let them draw néere, and giue their atten<g ref="char:EOLhyphen"/>dance, for the Court is set.</p>
+            <p>As soone as euer the proclamation was ended, Lord, what a Companie of petitioners pressed to the barre to preferre their papers of miuries, that were offred and done among themselues, here one complaines that hée could not trauell safely, nor cary any money without danger of the vyright man and Tinker, but that they would robbe and spoyle them of all that was ought a<g ref="char:EOLhyphen"/>bout them, here another that they could not quietly take their rast in the night, nor kéepe his Autem, or dorie sole vnto himselfe: but that the Ruffier, padder, or any vp<g ref="char:EOLhyphen"/>right
+<pb facs="tcp:176953:4"/> man, would take them away perforce, and others that they could not conuerse, and kéepe company with those that they met, but that in the night they are sure to be Clyd in the night, by the Angler, or hooker, or such like pilferers that liue vpon the spoyle of other poore people. These were generally the effect of their petitions, but O, if a man were there to heare the noyse, the clamour, and bawling that was there amonge them, you would sure thinke, that all the dogges in Parish garden were broke loose, and came thither on purpose to yawle: yea, I think in my conscience, <hi>Cerberus</hi> that thrée-throat hor<g ref="char:EOLhyphen"/>rible hel-hound neuer kept a more dolefull, nor horryd noyse, than those kennell of <hi>Clapperdugeons</hi> did at that time, but after that proclamation was made for silence, Corporall <hi>Fize</hi> chéefe Commander of that courte, began as followeth.</p>
+            <p>
+               <note place="margin">Corporall Fize his speech to appease the tumult.</note>My friends and fellowes, our méeting héere at this time is not to discusse and determine of matters be<g ref="char:EOLhyphen"/>twéene partie and partie. But our assembly now is to finde out, Iudge, and determine of one that of late hath published two malitious and iniurious Pamphlets: concerning vs and our whole course of life. Therefore, I would request you forbeare vntill the Court haue ful<g ref="char:EOLhyphen"/>ly finished and ended this matter: and if we haue any spare time afterward we will be ready to redresse any wronge, you, or any of you haue sustained. At this moti<g ref="char:EOLhyphen"/>on the wind was calme, then they procéeded to call foorth the Graund Iurie, or Quest of Enquirie: who being called they did appeare, and then the charge was giuen them as followeth.</p>
+            <pb facs="tcp:176953:5"/>
+            <pb facs="tcp:176953:5"/>
+            <p>
+               <list type="list_of_jurors">
+                  <head>The names of the Graund Iurie, or Quest of en<g ref="char:EOLhyphen"/>quirie of Crackropes.<note place="margin">The Graund Inquest of Crackropes.</note>
+                  </head>
+                  <item>
+                     <hi>ANthonie ap Hugh,</hi> the Aplesquire of Apesbury. <hi>Bartholmew Barfilching,</hi> the Bottlemaker of Bri<g ref="char:EOLhyphen"/>stow.</item>
+                  <item>
+                     <hi>Christopher Chafelitter,</hi> the Chymneysweeper of Kno<g ref="char:EOLhyphen"/>ctiuergos.</item>
+                  <item>
+                     <hi>Demetrius Dingethrist,</hi> the Dorsermaker of Dorneby.</item>
+                  <item>
+                     <hi>Edwin Euesdropper,</hi> the Eele-pie eater of Elton.</item>
+                  <item>
+                     <hi>Friskin Fitz-Fizler,</hi> my Lady <hi>Brache</hi> Gent. Vsher of Feuersham.</item>
+                  <item>
+                     <hi>Gregory Greenewinchard,</hi> the Gunfounder of Gog<g ref="char:EOLhyphen"/>gleton.</item>
+                  <item>
+                     <hi>Haunce Haltersicke,</hi> the Harnismaker of Hornchurch.</item>
+                  <item>
+                     <hi>Iefferie Iobbernall,</hi> the Ierkin maker of Iorley.</item>
+                  <item>
+                     <hi>Kenericke Coleprophet,</hi> the Cockletaker of Canter<g ref="char:EOLhyphen"/>burie.</item>
+                  <item>
+                     <hi>Leacherous Lowsicote,</hi> the Larke taker of Lalum.</item>
+                  <item>
+                     <hi>Martin Marke-a-knaue,</hi> the Milstone cutter of Mar<g ref="char:EOLhyphen"/>bury.</item>
+                  <item>
+                     <hi>Nunquam Neuerthriue,</hi> the Nutcracker of Newberie.</item>
+                  <item>
+                     <hi>Owin Ouerthwart,</hi> the Onion seller of Ockingham.</item>
+                  <item>
+                     <hi>Peter Poundkarlicke,</hi> the Powchmaker of Pindle burie.</item>
+                  <item>
+                     <hi>Quinton Corrifauell,</hi> the quacksaluer of Quanton.</item>
+                  <item>
+                     <hi>Rowland Rinceprichard,</hi> the Ratcatcher of Ramsey.</item>
+                  <item>
+                     <hi>Stephen Stinck-a-pace,</hi> the Sowgelder of Stamford.</item>
+                  <item>
+                     <hi>Timothy Hol-hazard,</hi> of Tritrace, the Tilemaker of Tonbridge.</item>
+                  <item>
+                     <hi>Vincent Veriknaue,</hi> the Vintener of the Vintry.</item>
+                  <item>
+                     <hi>Wilkin wiredrawer,</hi> the Welsh wizard of Wickham.</item>
+                  <item>
+                     <hi>Hextus Sextus,</hi> the Sexton of Sexbury.</item>
+                  <item>
+                     <hi>Yanikin Yanner,</hi> the Yarne spinner of Yarmouth.</item>
+                  <item>
+                     <hi>Nicholas Chathorne,</hi> the bowsie bag bearer, or Clarke
+<pb facs="tcp:176953:6"/> of the Snapsacke,</item>
+               </list> good men in nothing, but true in Vil<g ref="char:EOLhyphen"/>lanie, stand néere and heare your charge.</p>
+            <p>
+               <note place="margin">Corporall Fizehis charge to the Iurie.</note>My Masters of the Iurie, and you my good friendes; the cause of our vnexpected and vnaccustomed méeting at this time is not vnknowen vnto you all, how an vp<g ref="char:EOLhyphen"/>start pamphletmaker and a most iniurious and Satiri<g ref="char:EOLhyphen"/>call Libeller hath of late dayes done as much as in him lieth: not onely to disgrace and defame our so auncient and long continuing profession: but also extirpe and o<g ref="char:EOLhyphen"/>uerthrow all our customes, acts and ceremonies, which time out of minde haue béene accustomed, and now are daily in vse and custome among vs, The cause of this his muddie humour, I cannot guesse otherwise then this, that being wearie of his good name and reputation (if e<g ref="char:EOLhyphen"/>uer he had any) is now contented to disburden himselfe thereof: and giues the whole world to vnderstand, that delighting in Rogerie more then honestie: he would shew himselfe to be little better then a tame Rogue. The mat<g ref="char:EOLhyphen"/>ter that he busieth himselfe about, fauoureth onely ran<g ref="char:EOLhyphen"/>cor and malice: The end whereat he aymeth, tendeth to death and desolation, subuersion of ourstate and fashion. And therefore my masters, it behooueth you as at all o<g ref="char:EOLhyphen"/>ther times, so especially at this time, wisely and conside<g ref="char:EOLhyphen"/>rately to way and ponder of this fact, for it is not an offence against one or two priuate men: but it toucheth the whole company in generall. And therfore a thing not to be passed slightly ouer, you therefore that haue the managing of this businesse, without whom wee of our selues can procéed in nothing, you being our right hand herein, bend all your care for the good of this little Com<g ref="char:EOLhyphen"/>mon-wealth. And as you are elected and chosen to sub<g ref="char:EOLhyphen"/>orne and vphold this small Regiment, so I pray you shew your selues, as I hope you will the true supporters and pillers of the same. But briefely to make an ende, because I purpose not to vse many words, you shall not
+<pb facs="tcp:176953:6"/> néed to enquire and search for the Author, or his name of this inuectiue, for he is knowen. And in his second Round as he calles it, hath set to his name: and therefore you may saue that labour, your charge is onely to finde of the slaunder and scandall comprised in the Indite<g ref="char:EOLhyphen"/>ment, or no, if you finde him guiltie, you shall returne on the backe side of the Inditement that hee is guiltie, and so giue it in Court, that we may procéed against him accordingly: meane time because it is fit to procéed with equitie and iustice, and not to giue iudgement rashly and hastily against any man, before he haue made his Apologie, or purgation, our Purseuant shall bée spéedily sent to him to bring him before vs, that he may aunswere to the obiections and crimes layde against him.</p>
+            <p>
+               <note place="margin">A messenger sent to call the Bel-man.</note>Straight was a stout sturdie and bigbone knaue sent in Embassage to <hi>Senior</hi> the Bel-man to appeare, who assoone as his message was deliuered (he néed d not to eb bid make haste) speedily hastens to the Belmans house, where he findes him at home by the fire side, mumbling a péece of bread and chéese. The Belman séeing this rude and vnmannerly fellow come in puffing, without any God spéed, was ready to choake for feare: but after they had parled on the matter, and deliuered his message, the Belman lockes fast his doore, and puts the key vnder the Still, and away they goe together toward the Court of Crackeropes. In the meane time the Iurie gaue vp their verdite, they made not a long haruest of a little corne, but suddenly they laid their knaues heads toge<g ref="char:EOLhyphen"/>ther, and concluded that the Belman was guiltie of the slaunder comprised in the Inditement: and thereupon deliuered vp againe the Inditement into the Court; and so for that time they all departed to dinner. By this time the Gentlemen of the ragged order, had almost dined, and now come in all haste, the Belman and his kéeper,
+<pb facs="tcp:176953:7"/> who assoone as they were now come; word was carri<g ref="char:EOLhyphen"/>ed in to the Masters of misrule, that the Belman was in the hall ready to auouch what he had published: At this word they all straight rose (although scarce well dined) as all moued with a couetous and gréedy desire to sée the confusion of the poore Belman.</p>
+            <p>As soone as the Benchers of the ragged Robes were set, in was called the Belman to make his Apologie, where after he had made his appearance, The chiefe commaunder of Crackropes began thus as followeth.</p>
+            <p>
+               <note place="margin">Corporal Fize his Oration to the Belman.</note>Signior Belman, I maruell what madnesse hath be<g ref="char:EOLhyphen"/>witched you, or what furie hath made you so fantasticke thus to raile on vs poore Vagrants, penilesse pilgrimes, hath your nightly watchings and continuall disorder of your braines so whorried your senses, that you can let flie at none other but on vs, poore forlorne wretches, that trouble you not, no not so much as once in seauen yeares.</p>
+            <p>Mee thinkes it should haue béene your part rather to haue tolde of domesticall affaires and houshold matters, what good rule is kept among your watch, how here one lies drunke when he should stand Sentinel, There ano<g ref="char:EOLhyphen"/>ther lying along a sléepe vpon a bench complayning how his back akes, with carrying the Tankard and burthens in the day time; so that he were more fit to haue béene at home in bed a fléepe, then busied with any seruice for the City abroad at night, how you found this doore left open by Prentizes, either to let in their whores when their Masters be a sléepe, or to purloyn their Masters goods to maintaine their Trulls, here to finde out a Knaue pick<g ref="char:EOLhyphen"/>ing open a locke by the helpe of his black Arte, and there in a Taylors stall hote luxurie making ryot. These and many more might you haue busied your braine about, and not thus scandalously and satirically to tyrannize o<g ref="char:EOLhyphen"/>uer vs as your Crosbiters do ouer their Simplers.</p>
+            <pb facs="tcp:176953:7"/>
+            <p>No, no, Goodman Bel-man, though we are of the con<g ref="char:EOLhyphen"/>temned sort, yet we haue supporters, and those that will fight in our quarrell were you neuer so strong.</p>
+            <p>But to the matter, surely you thinke you haue done a noble exploit, thus to descry and declare to the worlde our manner of liuing and customarie lawes, our Innes, feasts, and méetings: And that herein you haue done the part of a good subiect, thus to Anatomize and picture out such kinde of people as you terme base, that liue by the sweat of other mens browes (as you say.) This I sent your reason, In déede I will say as you say: But shall I tell you, your praise had béene much more the greater, if you had searched into the particular enormi<g ref="char:EOLhyphen"/>ties, &amp; palpable villanies committed daily in your City: Let vs poore folke liue as wee doe, we doe no man hurt but our selues, nor no mans foe but our owne, we haue nothing but what other men can spare, other mens lea<g ref="char:EOLhyphen"/>uings are our refreshings, and if it were not for vs, much good meate would be in danger of Fly-blowing, or cast to dogges. If there bee any in our vocation or calling, that liue disorderly and out of compasse, what trade can you name that doe not the like. If wee sometimes lie with our neighbours wiues, is it not vsuall else-where? (nay herein by your fauour, we doe best paint out the fa<g ref="char:EOLhyphen"/>mily of Loue, who doe not sticke but to haue all things in common:) If in bowsing we ouer-drinke our selues, doe not some of the best in your City do the like? If some make little conscience in lying, swearing, and stealing, I thinke fewe of your Trades-men goe frée: If then it be all one in City as in Countrey, among the rich as a<g ref="char:EOLhyphen"/>mongst vs poore, and generally in all Trades and Oc<g ref="char:EOLhyphen"/>cupations deceit and abuses, sith it is so that he that can<g ref="char:EOLhyphen"/>not dissemble cannot liue: why then should you bee so spitefull goodman Saunshell to inueigh against vs poore soules aboue the rest, who of all others, in shifting are the most simplest soules in this ouer wise world.</p>
+            <pb facs="tcp:176953:8"/>
+            <p>But you good sir, like a Spider to entrappe onely the smallest flies, suffer the great ones to flie through, you scowre the ditch of a company of croaking frogs, when you leaue behinde you an infinite number of venomous Toades, you decypher and paint out a poore Rogue, or a Doxie that steale and rob hedges of a few ragged clothes (which you can make but petit larciney.) And neuer speake of those Vultures that ruine whole Lordships, and infect the common wealth, by their vallainous li<g ref="char:EOLhyphen"/>uing to the discredit of some, and ill example to all.</p>
+            <p>Sir reuerence on your Mastership, good Mas Bel<g ref="char:EOLhyphen"/>man, had you such a moate in your eie, that you could not sée those Fox-surd gentlemen, that harbour more de<g ref="char:EOLhyphen"/>ceit vnder their dammaske cassockes, then is in all the poore Rogues in a countrey, Brokers I meane and Vsu<g ref="char:EOLhyphen"/>rers, that like vultures prey vpon the simple, those that are moaths in a Common-wealth, liuing vpon the spoile of young gentlemen, as thirstie as a horse-léech, that will neuer leaue drinking vntill he burst: A Knaue that hath the interest in the leases of fortie bawdie houses, and a receiuer of lifts, and a dishonourable supporter of Cut<g ref="char:EOLhyphen"/>purses, sléeping with his neighbours pledges all night in his bosome, and féeding vpon forfeits and penalties, as Rauens doe vpon carrion, one that is a bowzie bawdie miser, good for none but himselfe, and his trugge, the scumme of your seauen deadly sinnes, and an enemy to all good mindes.</p>
+            <p>What say you to these now, good Senior Bel-man, had you not béen better occupied to haue discouered, and layne open these kinde of Caterpillars then thus at <hi>Ran<g ref="char:EOLhyphen"/>dum,</hi> to rayle on vs poore harmelesse Pilgrims, these are within your precinct and libertie, with whom you are dayly conuersant. But you will verifie the old saying, where the ditch is lowest, there men goe ouer thicke and thrée-fold: but it séemes you durst not make any menti<g ref="char:EOLhyphen"/>on of these, because they bée your good Masters and Be<g ref="char:EOLhyphen"/>nefactors,
+<pb facs="tcp:176953:8"/> but for my part I care for none of them, no more then they care for me.</p>
+            <p>The néerest to our profession that I knowe, you are most like to the whip-iacke, who (as you say) being an idle fellow, and a fresh-water souldier, neuer sayling further than Graues-end, will talke and prate of the low Countreys, of this battell, &amp; that skirmish that he fought in, wheras indéed he neuer durst say so much as Boh to a Mouse, so you neuer going further out of town thē a far<g ref="char:EOLhyphen"/>thing candle wil light, you will talke, &amp; prate, &amp; make a flourish of a number of things done both out of your precinct, and capacitie: say you are acquainted with all the damned Crew about the Citie, must it néeds follow that you haue the in-sight and myshery of our calling and prrofession likewise? No good sir, knowe you are wide by the length of your nose, yea, and so wide that you shall neuer know the full depth therof, vntill you haue vnder<g ref="char:EOLhyphen"/>taken the sublime habite, and shape of a poore Pilgrim, and humble Heremite. And so <hi>Benedicite.</hi>
+            </p>
+            <p>After this profound Drator had thus bespoken, license was granted to the Bel-man, to make his answere and purgation, where when he had cleared his throat with a hem, and made himselfe readie for that purpose, he pro<g ref="char:EOLhyphen"/>céeded thus.</p>
+            <p>My Masters, and you that are héere present to heare<note place="margin">The Belmans Answer and defence</note> mée, I take no care how to answere you, knowing my cause to be iust and honest, it hath béene euer knowne, that those that haue guilty consciences wil thinke, that e<g ref="char:EOLhyphen"/>uery thing that is saidis spoken against themselues. And now I finde it too true, that it is not good medling with galled Iades, least they winch and kicke. For mine own part, what I haue saide I dare auouch, and I am sully resolued to stand to my tackling, come what tempest will. And since you haue giuen me leaue fréely to speak my mind without interruption, I will begin with your liues, and shew you how vilde and base it is before God
+<pb facs="tcp:176953:9"/> and the world. For I thinke there be none here but such as you call Maunders, Clapperdugeons, and a few Pad<g ref="char:EOLhyphen"/>ders, and those of the meanest sort, al which I may right<g ref="char:EOLhyphen"/>ly term you, &amp; giue you this one name drowsie Drones, and lowsie Loyterers: and what is a Lopterer or Drone, nothing but a sucker of honie, a spoyler of corne, a de<g ref="char:EOLhyphen"/>stroyer of fruit, a waster of mony, a spoyler of victuall, a sucker of blood, a breaker of good orders, a séeker of brawls, a queller of life, a Baseliske of a cōmon-wealth, which by companie and sight doth poyson a whole coun<g ref="char:EOLhyphen"/>trey, and stayneth honest minds with the infection of his venome, and so draweth the Common-wealth to death and destruction, and such is the end of your liues &amp; com<g ref="char:EOLhyphen"/>manding: when we sée a great number of flies in a yéere, we iudg it like to be a great plague: and hauing so great a swarming of loytering vagabonds, &amp; sturdie Rogues readie to brawle and swagger at euery mans dore, doth it not declare a greater infection readie to ensue.</p>
+            <p>Who therefore can otherwise déeme. But that this pestilence wherewith this our flourishing Common<g ref="char:EOLhyphen"/>wealth is so plagued with, is aboue all other most pesti<g ref="char:EOLhyphen"/>lent, yea and so pestiferous, that indeede there can bee no more hurtfull a thing to a wel gouerned estate: and therefore it is not onely most odious, but also pestilent in that it hath spotted the whole Countrey with such a staine and blot of idlenesse.</p>
+            <p>What say you to a number of Vagabonds, and stur<g ref="char:EOLhyphen"/>dy Rogues that after the ouerthrow of the enemy, and breaking vp of the Campe, will swarme in euery corner of the Realme, and not only lie loytering vnder hedges, but also stand sturdely in Cities, and begge boldly at e<g ref="char:EOLhyphen"/>uery doore, leauing labour which they like not, and follo<g ref="char:EOLhyphen"/>wing Idlenesse which they should not? For after wars it is commonly séene that those that went out honest, re<g ref="char:EOLhyphen"/>turne home againe like Roysters: and as they were brent to the warres bottome, they haue euer after all
+<pb facs="tcp:176953:9"/> their daies an vnsauory smacke thereof, and smell still towards day-sléepers and hedge-tréepers, purse-cutters, padders, quarrellers and blood-shedders.</p>
+            <p>Is it not séene commonly after wars, more robbing, théeuing, begging and murdering then before? and those to stand in high-waies to aske Almes, whom men are a<g ref="char:EOLhyphen"/>frayd to say nay vnto honestly, least it be taken away from them violently, and haue more cause to suspect their strength, then to pittie their neede: men cannot safely ride in the high-way, vnlesse they ride stronge: worke is left at home vndone, and loyterers laze in the stréete, lurke in Ale-houses, and range in the high-waies: sturdy knaues play in Towns, and complaine of néede, whose filchman or staffe, if it be once warme in their hands, or sluggishnes bred in their bosome, they will ne<g ref="char:EOLhyphen"/>uer be allured to worke, according to the saying that you haue among your selues <hi>(If you can Cant, you will neuer worke)</hi> shewing, that if they haue béene rogues so long, that they can Cant, they will neuer settle them<g ref="char:EOLhyphen"/>selues to labour againe. And what more noysome beasts in a Common-wealth can there be, then you loy<g ref="char:EOLhyphen"/>terers are? Diuers vermine destroy corne, kill pullen, and engines and snares are made for them: but for your selues, although you are made men that should haue reason, yet nothing will serue to bridle you, or kéepe you in compasse, vntill your neck be compassed with a With or Halter.</p>
+            <p>And what a griefe is it to an honest man, to labor tru<g ref="char:EOLhyphen"/>ly in youth, and to gaine painefully by labour, where<g ref="char:EOLhyphen"/>with to liue honestly in age, and to haue this (gotten in a long time) to be suddenly caught and rapt away by violence.</p>
+            <p>Here the Bel-man would haue said more, and scarce hither to could they refraine themselues, but with indig<g ref="char:EOLhyphen"/>nation and choler, were ready to teare the poore Bel<g ref="char:EOLhyphen"/>man in péeces amongst them; for the Sunne being in
+<pb facs="tcp:176953:10"/>
+               <hi>Cancer,</hi> and the Midsomer Moone at full: their mindes were imbrued with such follies, and their heads carried away with such vanities, that as men of Athens, they would heare no man speake but themselues, and thought nothing well said, but what came out of their owne mouthes. But after the storme was past, and an O Yes was made for silence,<note place="margin">A post from Don-Purloy<g ref="char:EOLhyphen"/>ningo.</note> in comes a Poste and Me<g ref="char:EOLhyphen"/>ssenger in all hast from <hi>Don-Pourloyningo</hi> of Theuen<g ref="char:EOLhyphen"/>gen, to the Masters and gouernours of this wicked Ra<g ref="char:EOLhyphen"/>blement, in this fashion:</p>
+            <p>Roome my Masters, I bring you newes, not common tydings of olde matters, but an answere of your letters of complaint,<note place="margin">His Message to the Court of Crack<g ref="char:EOLhyphen"/>ropes.</note> sent to my Master <hi>Don-Pourloyningo:</hi> They came to his hands, he hath perused them, and sent you his generall protection, to defend you from the handes of the impatient and seuere people: now you may be of good comfort, and pull vp your hearts: if you offend againe, you néede feare no punishment, but swag<g ref="char:EOLhyphen"/>ger till your guts cracke: you shall haue all at your own willes to the full: Nay, tis true as I tell you; if you wil not beleeue, you shall sée his letters of comfort and wri<g ref="char:EOLhyphen"/>ting Consolatory, which he hath graunted in fauour to you: dispatch, get vp all your trumpery, for the shippes will be ready for you at the next winde. With that he pulled forth of his pocket the protection sent from <hi>Don Purloyningo,</hi> which followeth. But before we goe any further, you shall heare the Copie of the Letter, sent by them to this new found Knight: The Indorsement of which is thus.</p>
+            <pb facs="tcp:176953:10"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <salute>To the thrise Renouned Potentate <hi>Don-Purloyningo, cheife Gouer<g ref="char:EOLhyphen"/>nour</hi> of the Region of Theuingen.</salute>
+                  <p>CRéeping at your vnreuerend féete your Suppliants,<note place="margin">Corporall Fize his letter to Don Pur<g ref="char:EOLhyphen"/>loyningo.</note> the Gentlemen of the ragged Order. That where<g ref="char:EOLhyphen"/>as in all places we are daily persecuted by all sortes of Officers, as Marshals, Beadles, Sergeants, Bayliffes, Constables, and such other officers, lying continually as spyes to entrappe and catch vs poore soules, as wee are following our callings in Markels, Faires, frayes, throngs, and assemblies, wherein heretofore we haue li<g ref="char:EOLhyphen"/>ued reasonable well, though not with any great credite, yet voyde of suspition or apprehension: and being so ta<g ref="char:EOLhyphen"/>ken, haue beene carried to places of correction, there wo<g ref="char:EOLhyphen"/>fully tormented by Blew-coates, cowardly fellowes, that durst not let vs haue our hands at liberty; but without al humanity, haue so scourged vs, that flesh and blood could hardly endure it. And whereas our prede<g ref="char:EOLhyphen"/>cessours before, for the good of this Common-wealth of ours, tooke great paines in deuising a new spéech or lan<g ref="char:EOLhyphen"/>guage, to the end we might vtter our mindes fréely, and speake boldly without controulement one to another, which no doubt was a great helpe to vs and our prede<g ref="char:EOLhyphen"/>cessours heretofore; yet such is the malice of some enui<g ref="char:EOLhyphen"/>ous il-willer of ours, that hath we know not how, not onely discouered our maners and fashions, but also this our language and spéech, whereby we are often times ouer-hard, and taken and sent to prisons and tortures, and onely by our owne confessions, which we haue vtte<g ref="char:EOLhyphen"/>red in this our language, and which haue truste vn<g ref="char:EOLhyphen"/>to
+<pb facs="tcp:176953:11"/> vs boldly, as if wee had beene safe bolted in a Castle or strong hold. Now forasmuch as wee haue not any friend to whom we may haue accesse that will heare or tender our causes in these affaires, we know not whe<g ref="char:EOLhyphen"/>ther to resort for aide, but to your good worshippe, who wee assure our selues loue and fauour vs, and will stretch your selfe to the vttermost of your power, for our enlargement and deliuerie from these perplexities by your mediation to <hi>Papa Belzebub</hi> the blacke Prince: for whose sake we haue endured many bitter stormes, cursings and reuylings contrarie to our expectation when we first began to practise our trade and occupa<g ref="char:EOLhyphen"/>tion.</p>
+                  <p>Besides the losse of many good booties, as siluer, plate, Iewels, apparrell and such like things, which when we haue fingred to doe vs credite, haue béene taken as wayfes to our great impouerishments, when wee haue béene driuen to yéelde to the officers, by which we find<g ref="char:EOLhyphen"/>ing our selues to grow so weake in purse, dare hardly aduenture to get to discharge our daily consumations and expences: nay although we would, we cannot; for the very vulgar are growne so craftie, that we are kno<g ref="char:EOLhyphen"/>wen so well as the beggar knowes his dish, although we dissemble our habites and estates neuer so much.</p>
+                  <p>Therefore presuming you will vngratiously consider of our hardnesse, and spéedily fetch vs away from these places which in torture, as to vs more hote then hell: we lie thicke and thrée-fold vnder staules, bulkes and hedges, praying for your worship, whose good word we make no question of, knowing well the pitty remayning in your good head, and often extended in loue to vs, ex<g ref="char:EOLhyphen"/>pecting your answere, we leaue you.</p>
+                  <closer>
+                     <signed>Yours in the basest fashion, <hi>The Derickmans,</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:176953:11"/>
+            <p>
+               <hi>Don Purloyningo</hi> at the receit of these wofull letters, hauing an extraordinary tender care ouer them, as be<g ref="char:EOLhyphen"/>ing of one stock and kindred, hath first inuented a course for their transportation and conueyance into his Terri<g ref="char:EOLhyphen"/>tories and Dominions, considering how they are likely to decrease, and their trade like to faile, through the pro<g ref="char:EOLhyphen"/>ditions and betrayings of the people which are contrary to them, and of another sex, hath appointed them a place, set and being in the plante Country of Theuingen néere Knaues-borough plaine, for their more quiet and peace<g ref="char:EOLhyphen"/>able liuing: which place, and whose manners I thinke good to describe, being that it was neuer heard of, vntill of late * daies; to the intent that such as shall by <hi>Don Purloyningo</hi> his Patent, haue right and title there,<note place="margin">By M. <hi>I.H.</hi>
+               </note> in the onfines of the same land, may make a preparado to haue passage when the winde shall sit faire for that place and voyage.</p>
+         </div>
+         <div type="section">
+            <head>The description of the state and si<g ref="char:EOLhyphen"/>tuation of Theuingen, with the nature and disposition of the people there INHABITING.</head>
+            <p>THe land of Theuingen is a Countrey bordering vpon the famous and thrice renouned Citie<note n="*" place="margin">Signifying a close &amp; strong place to keepe Treasure in.</note> Gaza<g ref="char:EOLhyphen"/>philatium: it is a Countrie vast, ful of desarts and thick woods: and although the land be mightily replenished with al sorts of nations and people, yet is it turned to no vse at al, neither for pasture nor arable, but only améere wildernesse, it hath béene a Countrey inhabited from the beginning, although not discouered so plainly heretofore as of late daies; people from all Countries daily resort
+<pb facs="tcp:176953:12"/> and flocke thither for case and quietnesse, as the Prodi<g ref="char:EOLhyphen"/>torians, Curtatoriences, <hi>Vacabundi Piratorij,</hi> Iesuites, Seminacies, and generally all of the Popes Sectaries, all murderers, out-lawes and fugitiues, Banckrouts and Brokers to the diuels grace, Parasits, day sléepers, and generally all that haue fought in defence of <hi>Lecheri<g ref="char:EOLhyphen"/>tania:</hi> These are naturally giuen and inclined to idle<g ref="char:EOLhyphen"/>nesse and lazie liues, insomuch that it commeth to passe, that being hungry they will steale one from another, and often cut one anothers throates: They neuer take paines for any thing they haue, and yet they haue all thinges without money. Their Béere is of that force, and so mightie, that it serueth them in steade of meate, drinke, fire, and apparrell, which they learne of their neighbour Drinktalians to brew: And they haue the praise aboue all other, farre beyond the Darbalians, the Labourinvaynalians or the Pymlyconians.</p>
+            <p>
+               <note place="margin">The City Ga<g ref="char:EOLhyphen"/>zaphilacium.</note>Close vpon this Countrey East-ward, is situate a goodly, faire, and most rich Citie, called, as I said be<g ref="char:EOLhyphen"/>fore Gazaphilacium: this Citie is very strongly defen<g ref="char:EOLhyphen"/>ced, for it is inuironed about with a wall of Siluer bea<g ref="char:EOLhyphen"/>ten out with the hammer; and yet for all this, the Inha<g ref="char:EOLhyphen"/>bitants are very couetous, and fearefull to lose that which they haue got together. And for that it is so rich and opulent; all the whole world are daylie plot<g ref="char:EOLhyphen"/>ting how to supprize the same, sometimes with polli<g ref="char:EOLhyphen"/>cie, and sometimes by force: but aboue all the rest, they are troubled and pestered with the Theuengers that they are forced day and night to kéepe continuall watch and yet for all that, doe what they can, they are so pilled and robbed by them, vpon the Sea Coasts called <hi>Mare Discontentaneum,</hi> that often times they are driuen into great extasies and perplexities.</p>
+            <p>
+               <note place="margin">The people Melancholy.</note>These are altogether bent to Malancholy, and giuen much to be malecontent, for that the Sea <hi>Mare Discon<g ref="char:EOLhyphen"/>tentaneum</hi> floweth often ouer the banckes of this Coun<g ref="char:EOLhyphen"/>trey
+<pb facs="tcp:176953:12"/> at euery full Moone; as also because this land being full of Créekes and small Riuers, which runne out and in this Sea, and the Inhabitants vsing to liue there<g ref="char:EOLhyphen"/>of; hauing little or no other water for their sustenance and contentation, dooth so worke within their bodies, such a distemperature, that thereof procéedeth a maruei<g ref="char:EOLhyphen"/>lous lumpishnesse and melancholy blockishnesse in their willes and dispositions, some to cruell murthers, others to plot Treasons, some to burne houses, and others to runne mad for reuenge; so that the Inhabitants round about them are wonderfully plagued with them, as the<note n="a" place="margin">Not so much with the recited misde<g ref="char:EOLhyphen"/>meanors, as in cousening and deceiuing them of Victu<g ref="char:EOLhyphen"/>als, and Beere, which by long running on the Score, of<g ref="char:EOLhyphen"/>ten is seene.</note> Eatealians, the<note n="b" place="margin">Not so much with the recited misde<g ref="char:EOLhyphen"/>meanors, as in cousening and deceiuing them of Victu<g ref="char:EOLhyphen"/>als, and Beere, which by long running on the Score, of<g ref="char:EOLhyphen"/>ten is seene.</note> Drunkalians,<note n="c" place="margin">Making faire promises but no deedes.</note> Lecheritanians, and especially the Foolianders, who oftentimes are cousened and cheated of so much siluer and riches in an houre, as they haue béene gathering and raking together in tenne yeares before.</p>
+            <p>They are of a strange Religion, for they feare neither God nor y<seg rend="sup">e</seg> diuel: their first father was<note n="d" place="margin">Which is as much to say, the remem<g ref="char:EOLhyphen"/>brance of our great Grand<g ref="char:EOLhyphen"/>father Caine who was a run<g ref="char:EOLhyphen"/>nagate, for kil<g ref="char:EOLhyphen"/>ling his bro<g ref="char:EOLhyphen"/>ther Abel.</note>
+               <hi>Caine,</hi> frō whence procéeded the race of Runagates, for after that <hi>Caine</hi> had murdred his brother, I suppose hee ran away out of his natiue country into this new found land to hide himself, wherin he liued some few yéeres &amp; died, whose posterity from age to age haue possessed the same. And at this day there is a monument, called in times past <hi>Canabels</hi>
+               <note n="e" place="margin">Now called Canabello quafi, Can and a bel: Because Cans with bels are there alto<g ref="char:EOLhyphen"/>gether vsed, such a one is in Hounsdich with vs, but it is a Polony Shoe with a Bel, that will not be left for ten pound, be<g ref="char:EOLhyphen"/>cause he hath it by inheri<g ref="char:EOLhyphen"/>tance: But Ingle-bels at the vpper end of Whit-crosse-street, comes very neere this Countrey fashion.</note>
+               <hi>Py<g ref="char:EOLhyphen"/>ramides;</hi> to blot out the remembrance of which, they haue inuented long Cannes and stone pottes, in forme of that monument, still retayning she forme, but altering the matter or substance.</p>
+            <p>They haue an imperiall seate of blacke and brit<g ref="char:EOLhyphen"/>tle substance, and therefore subiect to mouldering, as fast therfore as that consumes away, there are work<g ref="char:EOLhyphen"/>men daily appointed to maintain and repaire the same: there are <hi>7.</hi>
+               <note n="f" place="margin">Subperbranes.</note> wise Mast. of his councell, the wisest wherof once in foure &amp; twenty houres, declares himselfe openly
+<pb facs="tcp:176953:13"/> a notorious foole by custome: all their councell plotting and deuising is to surprise that goodly Citie Gazaphila<g ref="char:EOLhyphen"/>tium: their minds are as braue as <hi>Caesars,</hi> for their wils must stand for lawes: they are possest with a very hu<g ref="char:EOLhyphen"/>merous disposition of flattery, for they will looke you in the face smilingly, and in the meane time picke your pocket: And for their apparell they are so phantasticke, that to day they will goe in a sute of Sattin, and to mor<g ref="char:EOLhyphen"/>row in tottered ragges, to day a pound, and to morrow nere a penny.</p>
+            <p>
+               <note place="margin">Their Lan<g ref="char:EOLhyphen"/>guage.</note>They haue a language among themselues, composed of <hi>omnium gatherum;</hi> a glimering whereof one of late daies hath endeuoured to manifest, as farre as his Au<g ref="char:EOLhyphen"/>thour is pleased to be an intelligencer; The substance whereof, he leaueth for those that will dilate thereof, en<g ref="char:EOLhyphen"/>ough for him to haue the praise, other the paines, not<g ref="char:EOLhyphen"/>withstanding <hi>Harmans</hi> ghost continually clogging his conscience with <hi>Sic vos non vobis.</hi>
+            </p>
+            <p>Vpon their banners they display an Owle in an Iuy trée with this Motto procéeding out of his mouth, <hi>desertis desertus.</hi> Their houses are made cursary like our Coaches with foure whéeles that may be drawne from place to place, for they continue not long in a place: and although this Countrey be their owne by inheritance, yet now it is peopled and inhabited by the Eatealians, Drunkalians, and people of other nations, who do dwel and haue increased marueilously since the late discouery of this Countrey by Master <hi>I.H.</hi> Yea sometimes like to the Snaile they carry their houses about them,<note place="margin">The fashion of their Houses.</note> like good husbands which are made and tempered of such fine stuffe, that when they are hungry they may féede thereof; insomuch oftentimes it comes to passe, that hauingeaten vp their lodging, they are faine to lie in the strubble for want of featherbeds.</p>
+            <p>They aboue all other people obserue that auncient commaund: <hi>Care not for to morrow, for to morrow will
+<pb facs="tcp:176953:13"/> care for it selfe;</hi> imitating the men of the olde world, who taking vpon them the habite of pilgrims and Fryars, earry neither wallet nor scripp, nor yet oftentimes any money in their purses.</p>
+            <p>
+               <note place="margin">Knaues-borow plaine.</note>In a large and spatious plain called Knaues-borough plaine, doth <hi>Don-Purloyningo</hi> kéepe his Court, which many men of sundry nations and trades haue desired to sée and to behold; who when they haue had their desire, and remained but some small time there, haue so fashio<g ref="char:EOLhyphen"/>ned themselues to the manners and conditions of those people, that many haue from thenceforth turned Turks, smelled of the Countrey, and sauored of their detestable and vitious kinde of life all their daies after: and most of your trauellers hitherto are your vaine and curious Taylors, Myliners, Tyrewoman, Semsters, <hi>S. Martin</hi> obseruants, Shuttle-cocke and Farthingal makers, and twenty other occupations, who to fill the world full of vanities and toyes, care not whither they trauell, so they may finde out new fashions and fooleries to cousen and deceiue the whole Countrey againe.</p>
+            <p>
+               <note place="margin">Diuers villages▪</note>In this plaine are situate diuers petty villages and hamlets, as Filchington, Foystham, Nymington, Lift<g ref="char:EOLhyphen"/>ington, Swearinghampton, the great and the little. These townes at first were made to entertaine and lodge all such Trauellers as came to sée that auncient seate of <hi>Don-Purloyningo,</hi> who were so named, as the Pharoes in Egypt, the Ptolomeys in Gréece, the Ce<g ref="char:EOLhyphen"/>sars in Rome. Now people strangers finding the Coun<g ref="char:EOLhyphen"/>trey very pleasant to inhabite, take vp their aboade and content themselues there to liue and die. The end of their trauell is not so much for curiosity, necessity or pleasure, as for their experience and learning: The rea<g ref="char:EOLhyphen"/>die high way to this pallace; and the chiefe places of a<g ref="char:EOLhyphen"/>boade and lodging in this iourney, I will bréefely set downe as fitting most directly for the Latitude of great Britaine, and generally for the whole world.</p>
+            <pb facs="tcp:176953:14"/>
+            <p>The first day then that they leaue their owne natiue Countrey, &amp; begin to enter the Dominions of <hi>Don-Pur<g ref="char:EOLhyphen"/>loyningo,</hi> they passe along a very faire Meddow, passing pleasant to the eye, which is in the confines and vtter<g ref="char:EOLhyphen"/>most part of Foolania the lesse: but after halfe a daies iourney, they come to bogs and quagmyres, much like to them in Ireland, of which vnlesse they be very care<g ref="char:EOLhyphen"/>full, they may quickly slippe vp ouer head and eares in myre.</p>
+            <p>
+               <note place="margin">The first daies iourney.</note>Hauing past the pikes of the first daies danger, they enter into a goodly faire Pallace, but inhabited by few, hauing this superscription ouer the gates, <hi>A Ethiopen la<g ref="char:EOLhyphen"/>uas,</hi> whereupon our English Trauellers call it the <hi>La<g ref="char:EOLhyphen"/>bour-in-Vaine:</hi> here many at the first are purposed to re<g ref="char:EOLhyphen"/>maine and abide: but séeing the place very spatious and without any Inhabitants, and vsed onely as a Tap-house for Trauellers, they take it for their lodging the first night, and away they hast in the morning forward on their iourney.</p>
+            <p>The second day after thrée or foure myle, they ascend very high and craggy Mountaines,<note place="margin">The second dayes iourney</note> farre passing the Clée or Mauluern hils in Wales, wher when they come downe againe, at the foote of these hilles standeth yet at this day, the Image of the Vicar of Saint Fooles, to which euery passenger before hee can passe, must offer vpon his knées for his passe and safe conduct through the Country of Foolania the great (Thirty Bord).</p>
+            <p>In the middle of this Countrie is built a very faire Citie called <hi>(Vanita)</hi> beautifull to the eye, but of no per<g ref="char:EOLhyphen"/>manence, for it is built after such a slight manner,<note place="margin">The City Va<g ref="char:EOLhyphen"/>nita.</note> that they are faine to re-edifie their houses, walls, and Tem<g ref="char:EOLhyphen"/>ples euery yeare a new: This Citie is gouerned by a woman called <hi>Madona Instabilita,</hi>
+               <note place="margin">Madona Insta<g ref="char:EOLhyphen"/>bita. Noting the se<g ref="char:EOLhyphen"/>uen deadly sinnes.</note> sitting vpon an Impe<g ref="char:EOLhyphen"/>riall Throne, farre excellent beyond the seate of Rome, she weares vpon her head seuen Imperiall Diadems: she is of that power and command, that she makes the
+<pb facs="tcp:176953:14"/> proude Pope to be at her obeysance: yea and so rules in his Dominions that his land is altogether gouerned by her and her Councell.</p>
+            <p>Their Citie walles séeme to be made of chaungeable Taffety, their houses of painted papers, of sundry cul<g ref="char:EOLhyphen"/>lours; they are busied all day about nothing but inuen<g ref="char:EOLhyphen"/>ting of new fashions, of Tires, garments, behauiours,<note place="margin">The cities description, &amp; the fashions of the people there.</note> spéeches, wordes, and Othes: In their apparell phanta<g ref="char:EOLhyphen"/>sticall; their hats sometime of the Italian blocke, ano<g ref="char:EOLhyphen"/>ther while of the French, and another time of the Spa<g ref="char:EOLhyphen"/>nish: their Dublets with great bellies with the Duch<g ref="char:EOLhyphen"/>men, and small skirts; sometimes with small skirts, and sléeues seamed, and quartered, as if they were to put on Armour of proofe, to fight vnder the bloody ensigne of the Duke of Shordich: their hose sometimes Spanish, like to Ship mens hose, and sometimes close to the but<g ref="char:EOLhyphen"/>tocke like the Venetian galligascoigne: Lord, it would aske a whole Reame of paper to discribe their fashions; It were tedious likewise to speak of the variety of their Shooes, and of their Shooe-strings, Garters, Cuffes, Ruffes, Hat-bands, and all things they weare, not one moneth, nay scarse a wéeke doe they continue in one fa<g ref="char:EOLhyphen"/>shion: for their liues they are dissolute in behauiour, A<g ref="char:EOLhyphen"/>pish, doggish, and Swinish, according to the disposition of their bodies, flattering in spéech, deceitfull in words, and in Oathes not a diuell can surpasse them: In all sin they abound, because with them they haue a toleration, like to Rome, <hi>Omnia Venalia Romae.</hi> Our gallants in England come most néere them in fashions and beha<g ref="char:EOLhyphen"/>uiour: too néere them, more is the pittie. Through this Citie thou maiest passe along, but sée thou tarry not long there, onely marke them and their fashions, as superfici<g ref="char:EOLhyphen"/>ally as thou art able, least too much desiring their com<g ref="char:EOLhyphen"/>pany, thou art forced in the end to crie out thus: <hi>O paine thou art compaine too nigh.</hi>
+            </p>
+            <p>
+               <note place="margin">The Fountain Tribulamenti Fons.</note>Among the rest, this is to be noted, that in the midst
+<pb facs="tcp:176953:15"/> of this City there issueth out of the earth, a spring in great abundance, which is walled about with Marble, and serueth the Inhabitants to bathe and wash them<g ref="char:EOLhyphen"/>selues, much like to our bathes here in Europe, onely it is of another operation: The people there call this bath <hi>Tribulamenti fons;</hi> &amp; it runneth from thence with a swift course along the fieldes and wayes with a thousand tur<g ref="char:EOLhyphen"/>nings and wyndings, vntill it come to a stéepe promon<g ref="char:EOLhyphen"/>tory, that ouerlooketh all the countrey of Theuingen, Lecheritania, and the rest, and there maketh so great and violent a fall, that it spreadeth it selfe, and runneth round about the Countries by diuers small créekes and Riuers, where méeting with other small Springs of the same nature, run altogether, as by one consent into the Sea called <hi>Mare Discontentaneum.</hi>
+            </p>
+            <p>
+               <note place="margin">The third dayes iourney.</note>Leauing this City as well as you can, you passe a whole day along towards Theuingen, crossing this Ri<g ref="char:EOLhyphen"/>uer twenty times ouer strait and narrow bridges, vntil you come to this stéepe and high Mountaine before spo<g ref="char:EOLhyphen"/>ken of: vpon the edge whereof, dwelleth an old Hermit called father <hi>Aduisall,</hi> a man aged and of long continu<g ref="char:EOLhyphen"/>ance, and therefore well experienced in the world: a ha<g ref="char:EOLhyphen"/>ter of flattery, and a louer of truth. As soone as you come to that place, this new wel-willer of yours will straight be in hand with you to know from whence you came, whither you meane to goe in so dangerous a place, and in méere loue and pitty wil be Inquisitiue how you durst trauell without a warrant from the Magistrate of your Countrey, perswading you by all meanes, to returne back, and not venture your life in so dangerous a Coun<g ref="char:EOLhyphen"/>trey as that is, telling you that fewe returne backe the same men they were, when they first entred that land, but that some returne maymed and lame, others sicke of one disease or other, and others of frenzie and madnesse, so contaminat a place, so loathsome the manners, so de<g ref="char:EOLhyphen"/>spised a Countrey, that a man vnlesse he were halfe be<g ref="char:EOLhyphen"/>sides
+<pb facs="tcp:176953:15"/> himselfe would neuer once desire to beholde that place. Thus, and to this effect will he speake, and many good perswasions will this good old man vse, and many motiues he will vrge you with to retire, but all in vain, for when men féele the Reines of liberty on their necks, and may take a course without controlement, such, whose lust is law, and whose will must not be control<g ref="char:EOLhyphen"/>ed for a world, little regarding all wise admonitions or sayings of the aged, doe with the vntamed Colt, and fat fedde Stéede, let flie their héeles into the ayre,<note place="margin">Dictis tamen ille repugnat▪ Pro<g ref="char:EOLhyphen"/>positum{que} petit Flagrat{que} cupi<g ref="char:EOLhyphen"/>dine currus.</note> and with the extrauagant and erring libertine run headlong into a thousand eminent dangers: then when the blacke Ore hath trod vpon their féete, and haue béene well bea<g ref="char:EOLhyphen"/>ten with their owne rodde, in the end they come home by wéeping crosse, and crie <hi>Pecaui,</hi> when their ambitious conceits gaines them nought but this, to comfort them in their destruction, that when by their aspiring braine, they haue procured their owne ouerthrow:<note place="margin">Hic situs est Phaeton currus auriga patern: Quem si non tenuit, magnis tamen excidit ausis.</note> men may say after their deaths, this fellow carried a braue minde and shot at mighty matters.</p>
+            <p>But to returne, leauing father <hi>Aduisall</hi> with his good aduise behinde, and following vice now before you, you must downe this hill (you néede no helpe downe) at the bottome whereof, you shall be at a trice. And albeit it be tenne dayes iourney vp, yet so is the stéepnes thereof, that you shall be conueyed to the bottome in halfe an ho<g ref="char:EOLhyphen"/>wer: at the foote of this Mountaine are two great port wayes, the one on the right hand,<note place="margin">Two port waies.</note> leading to the Coun<g ref="char:EOLhyphen"/>tryes of Lecheritania, Drunkalia and Eatealia, and the other on the left hand, leading toward Theuingen and the neighbour Countries thereabout. To leaue the right hand way for such as haue trauelled thither to discourse on,<note place="margin">Temple of Ve<g ref="char:EOLhyphen"/>nus and her picture.</note> we wil take our iourney toward <hi>Don Purloyningoes</hi> Pallace: this onely by the way; about tenne myles from the foote of this hill in Lecheritania standeth the Tem<g ref="char:EOLhyphen"/>ple of <hi>Venus,</hi> and there is the goodly picture of <hi>Venus</hi> fra<g ref="char:EOLhyphen"/>med
+<pb facs="tcp:176953:16"/> of Siluer, naked in her Chariot, drawne by two Swannes and two Doues, her head bound with myr<g ref="char:EOLhyphen"/>tle leaues, a burning starre on her breast, a Globe re<g ref="char:EOLhyphen"/>presenting the earth in her right hand, and thrée golden Apples in her left, behinde her were the thrée Graces back to backe, hand in hand, and Apples in their hands: not farre off that place, is likewise to be séene the Storie of <hi>Venus</hi> her originall, liuely painted out, how <hi>Saturne</hi> de<g ref="char:EOLhyphen"/>priued his father <hi>Caelus,</hi> of those partes which were fit<g ref="char:EOLhyphen"/>test for generation, and throwing them into the Sea by wonderful power, <hi>La. Venus</hi> was made, the blood wher<g ref="char:EOLhyphen"/>of falling short, sell into the land of Theningen. which Countrey we are now about; of which sprange fierce, hote, and cruell people, with which at this day the land is mightily replenished and pestered.</p>
+            <p>
+               <note place="margin">The originall of these peop<g ref="char:EOLhyphen"/>ple.</note>Concerning the originall and beginning of these peo<g ref="char:EOLhyphen"/>ple, Historiographers doe differ and disagrée: <hi>Leo He<g ref="char:EOLhyphen"/>breus</hi> out of the auncient Poet <hi>Pronapides,</hi> reports that <hi>Demogorgon</hi> perceiued that a dangerous and perniti<g ref="char:EOLhyphen"/>ous tumult was bréeding in the bowels of <hi>Chaos:</hi> wher<g ref="char:EOLhyphen"/>fore of very loue and pitie, he stretched out his hand and opened her womb, whence presently issued forth a most deformed issue called <hi>Litigium,</hi> which no sooner appeared but presently it bred brabbles, and made such a foule sturre, that it waxed proude, and stroue so mount vp to heauen: but <hi>Demogorgon</hi> soreséeing what would ensue, threwe him downe with his necke forward into this Countrey.</p>
+            <p>But others more likely, report that they came of <hi>Nep<g ref="char:EOLhyphen"/>tune</hi> and <hi>Iphimedea,</hi> which very well may be, for <hi>Nep<g ref="char:EOLhyphen"/>tunes</hi> brood is furious and vnruely, by reason of the su<g ref="char:EOLhyphen"/>perabundant store of vnbridled humors, and <hi>Iphimedea</hi> is nothing else but an obstinate and selfe-wil'd conceit, and desire; grounded in the minde, and not remoueable: such are your idle vagabonds, that after war wil betake themselues to no honest course of life to liue in, but bee
+<pb facs="tcp:176953:16"/> robbers by the high waies, cousoners and cony-catchers, that liue by their wits, and wil not betake them to honest trades, but especially seditious &amp; rebellious subiects in a Common-wealth, schismatical and hereticall seducers in the Church, as Brownists, Papists, Iesuites and such like. And for this cause as there was a Schoole erected for villaines in times past called <hi>Cacademica Lycaon,</hi> so called because hee was the first that did violate the lawes of truce, and league, by killing and sacrificing vn<g ref="char:EOLhyphen"/>to <hi>Iupiter</hi> a certaine hostrage, sent from the <hi>Molessi,</hi> whereof came the fable, that he set mans flesh before. <hi>Iu<g ref="char:EOLhyphen"/>piter,</hi> to trie whether he were a God or no: So the Pope now hath erected another, because this was not large enough called <hi>(Sattani Senatus)</hi> wherein is taught the arte of stabbing, poysoning, betraying, periury, treason in all degrées, blowing vp and consuming by Gun-pow<g ref="char:EOLhyphen"/>der, Wichcraft and Sorcery, Sodemytry and Bugge<g ref="char:EOLhyphen"/>rie, torments for innocents. And in truth for the archieu<g ref="char:EOLhyphen"/>ing and bringing to passe of all mischiefe: so that now if any be so minded to murder his Prince, Father or Mother, friend, wife or any else, he shalbe here protected, holpen backt, encouraged, and pardons graunted for them and their children for euer.</p>
+            <p>
+               <note place="margin">The fourth dayes Iourney fearefull sights and Monsters.</note>After a daies iourney, you shall come into desarts and solitary Woodes, wherein you shall sée very strange and fearefull sights, and apparitions: there will appear to you monsters that haue faces and bodies come<g ref="char:EOLunhyphen"/>lylike to women, ready to allure and entice you with them, but their lower partes are vgly and deformed, hauing vpon their handes and féete sharpe clasping clawes, that if they once graspe you, you shall hard<g ref="char:EOLhyphen"/>ly escape their clutches. And if they seaze on you, they wil bring you out of the way, through distraught and seare, vntill you méete another company more horrid and terrible: Their Haire all
+<pb facs="tcp:176953:17"/> of crawling snakes, their garments down to the héeles, close girt with a snakie girdle, serpents in the one hand and firebrands in the other, their eyes, face, and téeth portending malice and vengeance. these are the mini<g ref="char:EOLhyphen"/>sters of death, they dwell in darke dennes thereabout, their office is to bring such passengers as trauell that way to a most vnspeakeable horryd denne, out of which procéedes so noysome an exhalation, that birds as they flie ouer the same are poysoned with the very breath and ayze thereof.<note place="margin">Auernus▪</note> This is that place which in the old world was called <hi>Auernus,</hi> round about which, and at the en<g ref="char:EOLhyphen"/>trance of which Caue, <hi>Virgill 6. Aenead.</hi> placeth a rable<g ref="char:EOLhyphen"/>ment, as woe, vengeance, wrath, sickenes, old age, feare, famine, penury, death, labour, sléepe, warre, discord and such like: in the midst of this Caue, is seated an Imperi<g ref="char:EOLhyphen"/>all Throane, whereon sittes the blacke Prince with a crowne on his head, a Scepter in his hand, and his great dogge <hi>Cerberus</hi> betwéene his féete, fawning on those that to leaue this way, if thou be wise, take héede of the first insinuating flatterers, leaue their pretended friendship and kéepe on thy way.</p>
+            <p>In this Country nothing is worthy of praise or com<g ref="char:EOLhyphen"/>mendation, for in all this solitary trauelling, you shall finde no comfort, but the skriching of Owles, croking of Ratiens, and such vncoth and balefull Ecchoes, the best part of your foode will be hearbe Rue, a bitter hearbe to féede on: but after when you haue better looked into your liues and carriages, you wil cal it herb-grace, your drinke is altogether of the water of that Countrey, cal<g ref="char:EOLhyphen"/>led throughout <hi>Aqua discontentanea.</hi>
+            </p>
+            <p>
+               <note place="margin">The fift dayes Iourney.</note>After two or thrée daies thus trauelling, you shall come into a faire plaine, called Knaues-borough plaine, wherein <hi>Don Purloyningo</hi> kéepes his Court; you shall at the first be made very welcome, yet so that they will narrowly spie into your carriage and behauiour: And
+<pb facs="tcp:176953:17"/> although they pretend neuer so greate loue and friend<g ref="char:EOLhyphen"/>shippe vnto you, yet will they not sticke to cousen and deceiue you if they can, of all you haue.</p>
+            <p>And thus much for the description of the state and si<g ref="char:EOLhyphen"/>tuation of Theuingen, with the nature and disposition of the people there inhabiting. And now to giue ouer this tedious Iourney, you shall heare the protection of <hi>Don Purloyningo,</hi> sent to Corporall <hi>Fize,</hi> chiefe comman<g ref="char:EOLhyphen"/>der of Rogues, and his Assistantes. The Copy whereof is as followeth.</p>
+         </div>
+         <div type="grant">
+            <head>The copie of the Commission and Graunt, sent from Don Purloyningo to Corporall <hi>Fize</hi> and his Assistants.</head>
+            <p>
+               <hi>I Don Purloyningo,</hi> great Commander ouer the Pro<g ref="char:EOLhyphen"/>uince of Theuingen, haue receiued diuers wofull and pittifull letters from sundry nations and people, but especially from those vnder the gouernment of Corporal <hi>Fize,</hi> chéefe commander of the poore persecuted Pilgrims in Europe, wherein they lay open to mee their wofull sorrowes, vexations, and troubles that they endure by sundry persons, in sundry places where they abide. Now forasmuch as it is not onely a Charity, to redresse their foresaid griefes, by sending for them into a Countrey where they shall be at quiet and hearts ease, but also a pleasure to people of better fashion, that cannot by any meanes disgest their idle and vntoward liues, which may proue hurtfull both to King and people: Be it there<g ref="char:EOLhyphen"/>fore knowne, that I haue graunted to all persons what<g ref="char:EOLhyphen"/>soeuer, that will take the benefite of this my Grant and Commission, frée leaue and license to come and inhabite
+<pb facs="tcp:176953:18"/> within my Countrey of Theuingen, and the profites of my land, to vse and enioy as fréely without contradicti<g ref="char:EOLhyphen"/>on, as if they were there bred and borne.</p>
+            <p>Now for the more spéedie execution of the same, we command all Saylers as well within our Iurisdiction, as without, that they make present search for all olde Boates, Hoyes, Shippes and Barkes, which haue long rested to be ready for this voyage; and that all thinges be in a readinesse, to the end that when they are in a good minde, they may be gone, that neuer after any good land be troubled and combred with so filthy and noysom a people.</p>
+            <p>And that all Carmen, Cochmen, and Carters haue their charge in a readinesse at a day, that they may bee carried in pompe to the water sides: and that all Trum<g ref="char:EOLhyphen"/>peters, Bagpipers, Fidlers and Drummers be ready with their musique to bring them onward of their iour<g ref="char:EOLhyphen"/>ney. Moreouer we commaund all Iaylors to open their prison doores, and let them all out that meane to sée my Dominions, and that neuer hereafter they once suffer any to come within their hold or Iurisdiction: and fur<g ref="char:EOLhyphen"/>ther vpon their departure we will all inuentions for pu<g ref="char:EOLhyphen"/>nishments appointed for the torturing of such persons be immediately pulled downe, cut in péeces, and be made in Bon-fires, for ioy that the land is disburdened of so loathsome a people.</p>
+            <p>And further we expresly commaund that the Saylers and Marriners (because we know them to be hasty and surly) to vse them kindly, and not by any means to crosse them, least they take snuffe in the nose, and so fall toge<g ref="char:EOLhyphen"/>ther by the eares: for they being very cholericke (as we haue heard) are subiect to disagréeing.</p>
+            <p>And that at their arriuall, they be presently placed e<g ref="char:EOLhyphen"/>uery one according to his degrée, and that with quietnes they receiue the profites of my land, without the let of those, that haue béene dead fiue hundred yeares before.</p>
+            <pb facs="tcp:176953:18"/>
+            <p>Further that no man mocke or delude them, or so much as bid them farewell, for feare that a little famili<g ref="char:EOLhyphen"/>arity cause them to haue a desire to remaine and tarry rather then to walke: but let them haue quiet passing, because they goe to a land better for their turnes, for they desire only ease, which there they shall haue, if once they can arriue and get to the borders thereof.</p>
+            <p>These our Letters and Commission now at your re<g ref="char:EOLhyphen"/>quest graunted, our desire is, that you may doe well, if otherwise betyde you then well, looke to your selues, and vse your owne discretions; and so fare you well.</p>
+            <p>At this newes the whole fraternity of Vagabonds whooted for ioy, as glad at the heart to thinke what a swaggering and dominéering they should kéepe in this new foundland, and wherein they made account to be young Lords and Masters: so that the poore honest Bel<g ref="char:EOLhyphen"/>man had license without any controlement or contradi<g ref="char:EOLhyphen"/>ction to depart: and if he would spit out any more his malice against them, let him spit till hee were drye for them, for they would little regard what he did, and cared not two chips, because they were determined to trauell, and meant to be out of the walkes and dangers of the honest.</p>
+            <p>Now Gentlemen (by my troth) I could finde in my heart to haue spent a bottle of Ale, that you had béene there with me, to haue seene the concourse of these Cat<g ref="char:EOLhyphen"/>terpillers, and heard the confused noyse of these couse<g ref="char:EOLhyphen"/>ning Crack-ropes, singing, hollowing and whooping, dancing and whistling: at this time there you should haue seene one that had béene lame néere fortie yeares, and gone on his Crowches fiftéene to my knowledge, throw away his stilts, and daunce the round Morrice: there another that puttes on a foule cloth on his head counterfeiting the falling-sicknesse, throw it away in a corner, and falles to swagger with his Doxie: here an<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:176953:19"/> with pitifull sore legges and armes to sée to, can now leape and wrastle as well as the best, and diuers with scalde pates and other diseases going before double in the stréetes, to cause and moue pitty, can now for ioy stand on their heads, fetch friskes about the house, pull one another by the eares: and indéede what did they not doe? none could perceiue but that they were all youth<g ref="char:EOLhyphen"/>full and lusty.</p>
+            <p>
+               <note n="*" place="margin">Hoist vp say<g ref="char:EOLhyphen"/>lors, the drum<g ref="char:EOLunhyphen"/>mers and pi<g ref="char:EOLhyphen"/>pers are at hand, lay plancks, make ready, they come, they come: A iolly crue, God send they want no ship<g ref="char:EOLhyphen"/>ping: A faire company I promise you, when they are all gone, we shal haue corn good cheape, Ware your purses hoe,</note>
+               <hi>All tooke all pleasure, and all for ioy to be sayling.</hi>
+            </p>
+            <p>Suppose now by this the greatest part of them are sayling on the blacke Sea, what will become of them, how they arriued, how entertained by the Inhabitants there, and of their prosperous voyage, you shall heare at the next boat-post. In the meane time, because the Bel<g ref="char:EOLhyphen"/>man entreateth any that is more rich in canting, to lend him better or more with variety, he will repay his loue double: I haue thought good not only to shew his errour in some places in setting downe olde wordes vsed fortie yéeres agoe before he was borne; for wordes that are vsed in these dayes (although he is bold to call me an v<g ref="char:EOLhyphen"/>surper (for so he doth in his last round) and not able to maintayne the title) But haue enlarged his Dictionary (or Master <hi>Harmans</hi>) with such wordes as I thinke hée neuer heard of (and yet in vse too) but not out of vaine glorie, as his ambition is, but indéede as an experienced souldier that hath déerely paid for it: and therefore it shall be honour good enough for him (if not too good) to come vp with the Reare (I doe but shoote your owne ar<g ref="char:EOLhyphen"/>row backe againe) and not to haue the leading of the Van as he meanes to doe, although small credite in the end will redound to eysher.</p>
+            <p>You shall know the wordes not set in eyther his Dic<g ref="char:EOLhyphen"/>tionaries by this marke §: and for shewing the errour in his words, and true englishing of the same and other, this marke ¶ shall serue.</p>
+            <p>
+               <list type="glossary">
+                  <item>§ <hi>Abram</hi> madde.</item>
+                  <pb facs="tcp:176953:19"/>
+                  <item>§ <hi>He maunds Abram.</hi> he begs as a madde man.</item>
+                  <item>
+                     <hi>Autem</hi> the Church.</item>
+                  <item>
+                     <hi>Autem mort,</hi> a married woman.</item>
+                  <item>¶ <hi>Bung</hi> is now vsed for a pocket, heretofore for a purse.</item>
+                  <item>
+                     <hi>Boord</hi> a shilling.</item>
+                  <item>
+                     <hi>Halfe a Boord,</hi> fixepence.</item>
+                  <item>
+                     <hi>Bowse</hi> drinke.</item>
+                  <item>
+                     <hi>Bowsing ken,</hi> an Ale-house</item>
+                  <item>
+                     <hi>Ben</hi> good.</item>
+                  <item>
+                     <hi>Benship</hi> very good.</item>
+                  <item>
+                     <hi>Buffa</hi> a Dogge.</item>
+                  <item>
+                     <hi>Bing a wast,</hi> get you kence.</item>
+                  <item>§ <hi>Budge a beake,</hi> runne away.</item>
+                  <item>§ <hi>A Bite, secreta () mulierum.</hi>
+                  </item>
+                  <item>
+                     <hi>Caster</hi> a Clocke.</item>
+                  <item>§ <hi>Crackmans</hi> the hedge.</item>
+                  <item>
+                     <hi>Comission</hi> a shirt.</item>
+                  <item>§ <hi>To Castell,</hi> to sée or looke.</item>
+                  <item>§ <hi>A Roome Cuttle,</hi> a sword.</item>
+                  <item>§ <hi>A Cuttle bung,</hi> a knife to cut a purse.</item>
+                  <item>§ <hi>Chepemans,</hi> Cheape-side market.</item>
+                  <item>
+                     <hi>To Cut,</hi> to tell or call.</item>
+                  <item>¶ <hi>Cut me ben whids,</hi> tell me truth.</item>
+                  <item>¶ <hi>To Cut quire whids,</hi> to lie.</item>
+                  <item>
+                     <hi>Crashing Cheates,</hi> Apples.</item>
+                  <item>¶ <hi>Chates,</hi> the Gallowes: here he mistakes both the sim<g ref="char:EOLhyphen"/>ple word, because he so found it printed, not knowing the true orginall thereof, and also in the compound; as for <hi>Chates</hi> it should be <hi>Cheates,</hi> which word is vsed generally for things, as <hi>Tip me that Cheate,</hi> Giue me that thing: so that if you will make a word for the Gallous, you must put thereto this word <hi>Treyning,</hi> which signifies hanging; and so <hi>Treyning Cheate</hi> is as much to say, hanging things, or the Gallous, and not <hi>Chates.</hi>
+                  </item>
+                  <item>
+                     <hi>Coue</hi> a man.</item>
+                  <pb facs="tcp:176953:20"/>
+                  <item>¶ <hi>Cowch a Hogshead,</hi> to lie downe and sléepe: this phrase is like an Alminacke that is out of date: now the duch word to <hi>slope</hi> is with them vsed, to sléepe, and <hi>lig<g ref="char:EOLhyphen"/>gen</hi> to lie downe.</item>
+                  <item>§ <hi>Crancke,</hi> the falling sickenesse: and thereupon your Rogues that counterfeit the falling sickenes, are cal<g ref="char:EOLhyphen"/>led counterfeit <hi>Crancks.</hi>
+                  </item>
+                  <item>
+                     <hi>To Cly the Iarke,</hi> to be whipped.</item>
+                  <item>
+                     <hi>Drawers</hi> Hosen.</item>
+                  <item>
+                     <hi>Dudes</hi> Clothes.</item>
+                  <item>
+                     <hi>Darkemans</hi> the night.</item>
+                  <item>
+                     <hi>Dewsauell</hi> the Countrey.</item>
+                  <item>
+                     <hi>Dup the gigger,</hi> open the doore.</item>
+                  <item>§ <hi>Afflicke</hi> a Théefe.</item>
+                  <item>
+                     <hi>Fambles</hi> hands.</item>
+                  <item>
+                     <hi>Fambling Cheates,</hi> Kings.</item>
+                  <item>§ <hi>Famblers,</hi> a paire of Gloues.</item>
+                  <item>§ <hi>To Filch,</hi> to beate.</item>
+                  <item>§ <hi>A Filchman,</hi> a cudgell or staffe.</item>
+                  <item>
+                     <hi>Flag,</hi> a groate.</item>
+                  <item>§ <hi>To Fence</hi> properly, to sell any thing that is stolne.</item>
+                  <item>§ <hi>To Foyst,</hi> to picke a pocket.</item>
+                  <item>§ <hi>A Feager of Loges</hi> one that beggeth with counterfeit writings.</item>
+                  <item>
+                     <hi>Glasiers,</hi> eyes.</item>
+                  <item>§ <hi>Greenemans</hi> the fields.</item>
+                  <item>
+                     <hi>Gan</hi> a mouth.</item>
+                  <item>
+                     <hi>Gage</hi> a quart pot.</item>
+                  <item>
+                     <hi>Granam</hi> Corne.</item>
+                  <item>
+                     <hi>Glymmer</hi> Fire.</item>
+                  <item>
+                     <hi>Gigger</hi> a doore.</item>
+                  <item>§ <hi>Gilkes for the gigger,</hi> false keyes for the doore or pick-lockes.</item>
+                  <item>§ <hi>Gracemans,</hi> Gratious stréete market.</item>
+                  <item>
+                     <hi>Gentry mort,</hi> a Gentlewoman.</item>
+                  <item>
+                     <hi>Gentry Cous ken,</hi> a Gentlemans house.</item>
+                  <pb facs="tcp:176953:20"/>
+                  <item>
+                     <hi>Harman becke</hi> the Constable.</item>
+                  <item>
+                     <hi>Harmons</hi> the stockes.</item>
+                  <item>§ <hi>Iockam</hi> a mans yard.</item>
+                  <item>§ <hi>Ian</hi> a purse.</item>
+                  <item>§ <hi>Iere</hi> a Turd.</item>
+                  <item>
+                     <hi>Ken</hi> an house.</item>
+                  <item>
+                     <hi>Stawling ken,</hi> a house to receiue stolne goods, or a dwel<g ref="char:EOLhyphen"/>ling house.</item>
+                  <item>§ <hi>Lugges</hi> eares.</item>
+                  <item>
+                     <hi>Lagge of dudes,</hi> a bucke of clothes.</item>
+                  <item>§ <hi>Loges</hi> a passe or warrant.</item>
+                  <item>§ <hi>A Feager of loges,</hi> one that beggeth with false passes.</item>
+                  <item>
+                     <hi>Lybbeg</hi> a bedde.</item>
+                  <item>
+                     <hi>Lower</hi> money.</item>
+                  <item>
+                     <hi>Lybkin</hi> a house to lodge people.</item>
+                  <item>
+                     <hi>Lagge</hi> water or pisse.</item>
+                  <item>
+                     <hi>Lightmans</hi> the day.</item>
+                  <item>
+                     <hi>Mynt</hi> gold.</item>
+                  <item>
+                     <hi>The Muggill,</hi> the Beadle.</item>
+                  <item>
+                     <hi>Make</hi> an halfpenny.</item>
+                  <item>
+                     <hi>Maunding</hi> begging.</item>
+                  <item>§ <hi>What maund doe you breake,</hi> what kind of begging vse you?</item>
+                  <item>§ <hi>Ile myll your maund,</hi> Ile spoyle your begging.</item>
+                  <item>§ <hi>To nip a Ian,</hi> to cut a purse.</item>
+                  <item>§ <hi>Nab</hi> a head.</item>
+                  <item>§ <hi>Nab cheate</hi> an hat.</item>
+                  <item>§ <hi>Numans</hi> Newgate market.</item>
+                  <item>¶ <hi>Nigling,</hi> company kéeping with a woman: this word is not vsed now, but <hi>wapping,</hi> and thereof comes the name <hi>wapping morts</hi> Whoores.</item>
+                  <item>
+                     <hi>Prat</hi> a Buttocke.</item>
+                  <item>§ <hi>Your prat whids Romely,</hi> you fart lustily.</item>
+                  <item>¶ <hi>Pecke</hi> meate, <hi>pecke</hi> is not meate but <hi>peckage, pecke</hi> is taken to eate or byte: <hi>as the Buffa peckes me by the stampes,</hi> the dogge bites me by the shinnes.</item>
+                  <pb facs="tcp:176953:21"/>
+                  <item>
+                     <hi>Ruff peck</hi> Bacon.</item>
+                  <item>§ <hi>Peckage</hi> meat or <hi>Scroofe</hi> scraps.</item>
+                  <item>§ <hi>To Plant</hi> to hide.</item>
+                  <item>§ <hi>Stow your whids and plant</hi>
+                  </item>
+                  <item>§ <hi>The Coue of the ken can kant.</hi>
+                  </item>
+                  <item>
+                     <hi>Prauncer</hi> an horse.</item>
+                  <item>
+                     <hi>Prigging</hi> riding.</item>
+                  <item>
+                     <hi>Patrico</hi> a Priest.</item>
+                  <item>
+                     <hi>Pad</hi> a Way.</item>
+                  <item>§ <hi>Padder</hi> an high-way robber or purse taker.</item>
+                  <item>§ <hi>Quire,</hi> this word is alwayes taken in il sense for naught</item>
+                  <item>§ <hi>Quire ken</hi> a prison house.</item>
+                  <item>§ <hi>Quire bowse</hi> bad drinke.</item>
+                  <item>§ <hi>VVhat a quire whidding keepe you,</hi> what a scolding kéep you?</item>
+                  <item>
+                     <hi>Quarroms</hi> the body, or armes, or backe.</item>
+                  <item>
+                     <hi>Roome vile</hi> a great towne, commonly taken for London.</item>
+                  <item>
+                     <hi>Roome bowse</hi> wine: this word is alwayes taken in the best sense, to shew a thing extraordinary or excellent.</item>
+                  <item>§ <hi>Roome bowsin ken,</hi> a Tauerne.</item>
+                  <item>
+                     <hi>Roome mort</hi> a Quéene or Gentlewoman, and so <hi>Roome Coue</hi> a Gentleman.</item>
+                  <item>¶ <hi>Ruffmans,</hi> not the hedge or bushes as heretofore: but now the eauesing of houses or roofes: <hi>Cragmans</hi> is now vsed for the hedge.</item>
+                  <item>
+                     <hi>Ruffian</hi> the diuell.</item>
+                  <item>§ <hi>Scrappes, fatte and glorious bittes:</hi> sound blowes and bangings.</item>
+                  <item>§ <hi>The muggill will tip you fat scraps and glorious bits,</hi> the Beadle will well bumbast you.</item>
+                  <item>
+                     <hi>Stampes</hi> legges.</item>
+                  <item>
+                     <hi>Stampers</hi> shooes.</item>
+                  <item>
+                     <hi>Slate</hi> a shéete.</item>
+                  <item>
+                     <hi>Scew</hi> a Cuppe or Glasse, a Dish or any thing to drinke in.</item>
+                  <item>
+                     <hi>Skipper</hi> a barne.</item>
+                  <pb facs="tcp:176953:21"/>
+                  <item>¶ <hi>Salomon</hi> the masse: Now when many doe presse the poore rogues so earnestly to sweare by the <hi>Salomon,</hi> doe not blame them though they refuse it; for although you know not what it meanes, yet they very well know: Many men I haue heard take this word <hi>Soloman</hi> to be the chiefe commander among the beggers; but to put them out of doubt, this is not he: marry there was one <hi>Solomon</hi> in <hi>K. HENRY</hi> the eights time that was a iol<g ref="char:EOLhyphen"/>ly fellow among them, who kept his Court most an end at Foxe Hall at the vpper end of Lam beth (if it be true as their Records make mention) who was Succes<g ref="char:EOLhyphen"/>sour to <hi>Cocke Lorrell:</hi> of him and his successors much is to bee spoken if licence may be graunted, and of whose Ruannagate race I could frame a whole trea<g ref="char:EOLhyphen"/>tise: but here enough.</item>
+                  <item>§ <hi>A Stander,</hi> he that stands sentinel vpon the <hi>Pad</hi> or high<g ref="char:EOLhyphen"/>way to robbe.</item>
+                  <item>
+                     <hi>Stromell</hi> the straw.</item>
+                  <item>§ <hi>Spreader</hi> butter.</item>
+                  <item>¶ <hi>Smellar</hi> a garden, not <hi>Smelling cheate,</hi> for thats a Nose<g ref="char:EOLhyphen"/>gay.</item>
+                  <item>§ <hi>Treyning</hi> hanging.</item>
+                  <item>§ <hi>Treyning cheate</hi> the gallous.</item>
+                  <item>§ <hi>To tip</hi> to giue.</item>
+                  <item>§ <hi>Tip a make ben Roome Coue,</hi> giue a halfepeny good Gentleman.</item>
+                  <item>
+                     <hi>To tower or Castell</hi> to sée.</item>
+                  <item>§ <hi>To whid</hi> to speake.</item>
+                  <item>§ <hi>A Winne</hi> a penny.</item>
+                  <item>§ <hi>VVhittington</hi> Newgate.</item>
+                  <item>
+                     <hi>Yarrim</hi> pottage or milke.</item>
+               </list>
+            </p>
+            <p>And thus haue I runne ouer the Canters Dictiona<g ref="char:EOLhyphen"/>ry, to speake more at large, would aske more time then I haue allotted me, yet in this short time that I haue, I meane to sing song for song with the Belman, ere I wholly leaue him.</p>
+            <pb facs="tcp:176953:22"/>
+            <lg>
+               <l>
+                  <note place="margin">1. <hi>Canyzon.</hi>
+                  </note>
+                  <hi>TOwre out ben morts &amp; towre,</hi>
+               </l>
+               <l>
+                  <hi>Looke out ben morts &amp; towre,</hi>
+               </l>
+               <l>
+                  <hi>For al the Roome coues are budgd a beake,</hi>
+               </l>
+               <l>
+                  <hi>And the quire coues tippe the lowre.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>The quire coues are budgd to the bowsing ken,</hi>
+               </l>
+               <l>
+                  <hi>As Romely as a ball,</hi>
+               </l>
+               <l>
+                  <hi>But if we be spid we shall be clyd,</hi>
+               </l>
+               <l>
+                  <hi>And carried to the quirken hall.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Out budgd the Coue of the Ken,</hi>
+               </l>
+               <l>
+                  <hi>With a ben filtch in his quarr'me</hi>
+               </l>
+               <l>
+                  <hi>That did the prigg good to bingd in the Risome,</hi>
+               </l>
+               <l>
+                  <hi>To towre the Coue budge alar'me.</hi>
+               </l>
+            </lg>
+            <p>But now I will shew you what I heard at <hi>Knock-ver<g ref="char:EOLhyphen"/>gos,</hi> drinking there a pot of English Ale, two Maunders borne and bred vp rogues wooing in their natiue lan<g ref="char:EOLhyphen"/>guage.</p>
+            <lg>
+               <l>
+                  <note place="margin">2. <hi>Canyzon.</hi>
+                  </note>
+                  <hi>O Ben mort wilt thou pad with me,</hi>
+               </l>
+               <l>
+                  <hi>One ben siate shall serue both thee &amp; me,</hi>
+               </l>
+               <l>
+                  <hi>My Caster and Comission shall serue vs both to maund,</hi>
+               </l>
+               <l>
+                  <hi>My bong, my lowre &amp; fambling cheate</hi>
+               </l>
+               <l>
+                  <hi>Shall be at thy command.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>O Ben Coue that may not be,</hi>
+               </l>
+               <l>
+                  <hi>For thou hast an Autem mort who euer that is she,</hi>
+               </l>
+               <l>
+                  <hi>If that she were dead &amp; bingd to his long Libb,</hi>
+               </l>
+               <l>
+                  <hi>Then would I pad and maund with thee,</hi>
+               </l>
+               <l>
+                  <hi>And wap and for thee fibb.</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:176953:22"/>
+            <lg>
+               <l>
+                  <hi>O ben mort Castle out &amp; Towre,</hi>
+               </l>
+               <l>
+                  <hi>Where all the Roome coues slopne that we may tip the lowre,</hi>
+               </l>
+               <l>
+                  <hi>Whē we haue tipt the lowre &amp; fenc't away the duds</hi>
+               </l>
+               <l>
+                  <hi>Then binge we to the bowsing ken,</hi>
+               </l>
+               <l>
+                  <hi>Thats cut the Robin Hood.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>But O ben Coue what if we be clyd,</hi>
+               </l>
+               <l>
+                  <hi>Long we cannot foist &amp; nip at last we shal be spyed,</hi>
+               </l>
+               <l>
+                  <hi>If that we be spied, O then begins our woe,</hi>
+               </l>
+               <l>
+                  <hi>With the Harman beake out and alas,</hi>
+               </l>
+               <l>
+                  <hi>To VVhittington we goe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Stow your whids &amp; plant, and whid no more of that,</hi>
+               </l>
+               <l>
+                  <hi>Budg a beak the Crackmās &amp; tip lowr with thy prat</hi>
+               </l>
+               <l>
+                  <hi>If treyning thou dost feare, thou ner wilt foist a Ian,</hi>
+               </l>
+               <l>
+                  <hi>Then mill, and wap and treine for me,</hi>
+               </l>
+               <l>
+                  <hi>A gere peck in thy gan.</hi>
+               </l>
+            </lg>
+            <p>As they were thus after a strange maner a wooing, in comes by chance a clapper dudgeon for a pinte of Ale, who as soone as he was spied, they left off their roguish poetry, and fell to mocke the poore maunder thus.</p>
+            <lg>
+               <l>
+                  <note place="margin">3. <hi>Canyzon.</hi>
+                  </note>
+                  <hi>The Clapper dugeon lies in the skipper,</hi>
+               </l>
+               <l>
+                  <hi>He dares not come out for shame,</hi>
+               </l>
+               <l>
+                  <hi>But when he binges out he dus budg to the Gigger,</hi>
+               </l>
+               <l>
+                  <hi>Tipp in my skew good dame.</hi>
+               </l>
+            </lg>
+            <p>And thus hath the Bel man through his pitifull am<g ref="char:EOLhyphen"/>bition caused me to write that I would not: And wheras he disclaims the name of Brother-hood, I here vtterly renounce him &amp; his fellowship, as not desirous to be re<g ref="char:EOLhyphen"/>solued of any thing he professeth on this subiect, knowing
+<pb facs="tcp:176953:23"/> my selfe to be as fully instructed herein as euer he was. But hereof enough, if not more then enough: I meane now to shew the originall and beginning of these peo<g ref="char:EOLhyphen"/>ple, when they began to gather to an head, and how they first came vp.</p>
+         </div>
+         <div type="section">
+            <head>The Runnagates Race, or the O<g ref="char:EOLhyphen"/>riginall of Regiment of Rogues, when they first began to take head, and how they haue suc<g ref="char:EOLhyphen"/>ceeded one the other successiuely, vntill about the sixe and twentieth yeare of King HENRY the eight, collected out of the Legend of LOSSELS.</head>
+            <p>AT what time King <hi>Henry</hi> the sixt of famous memo<g ref="char:EOLhyphen"/>rie bare rule ouer the Britanes, there was one <hi>Iohn Mendal</hi> (alias <hi>Iack Cade</hi>) an Irish man,<note place="margin">29. K.H. 6.</note> that named himselfe by the name of <hi>Iohn Mortimer,</hi> cousen to the Duke of Yorke, whereupon hee gathering together a great company out of Kent, assured and perswaded them, that the enterprise he tooke in hand, was both ho<g ref="char:EOLhyphen"/>nourable to God and the King, and profitable to the whole Realme: the Kentish men moued with these per<g ref="char:EOLhyphen"/>swasions and other faire promises, marched to blacke heath, where they lay for a month pilling the Countrey round about.</p>
+            <p>At the same time, which was about one thousand foure hundred and fiftie, two vnruly fellowes (the one named <hi>Blewbeard,</hi> the other <hi>Hugh Roberts</hi>) which were lately come ouer from France, who had béen souldiers vnder the Duke of Somerset and the Earle of Shrewsbury in the winning and loosing of Constance, Guysons, Roane
+<pb facs="tcp:176953:23"/> and diuers other Cities in France: the which <hi>Blew<g ref="char:EOLhyphen"/>beard</hi> in a Commotion, shortly after he came ouer, being made their Captaine,<note place="margin">Roberts the first Com<g ref="char:EOLhyphen"/>mander.</note> before he had attempted any thing at all, was taken and executed: But <hi>Roberts</hi> kéeping in Kent, gathered a number of Rakehels and Vagabonds together to the number of an hundred in that Countrey, to whom likewise masterlesse men after they heard of his fame, came cluttering on heapes, so that he had in a short space to the number of fiue hundred followers.</p>
+            <p>These sturdie Vagabonds ioyning with <hi>Iacke Men<g ref="char:EOLhyphen"/>dall</hi> in this rebellion, march toward London, and enter Southwarke, and there lodged at the white Harte for a night or two, prohibiting al from Rape, robery and mur<g ref="char:EOLhyphen"/>der, the more to allure the hearts of the people to fauour his enterprise. After, they come into London, and there they play <hi>Rex.</hi> and returne backe into Southwarke a<g ref="char:EOLhyphen"/>gaine, where, after many conflicts betwéene them and the Citizens, the Kings pardon was proclaimed: at which hearing, the poore people were so glad, and so rea<g ref="char:EOLhyphen"/>dy to receiue it, that without bidding farewell to their Captaines, withdrew themselues euery man towards his owne home.</p>
+            <p>
+               <hi>Iack Mendall</hi> despairing of succours, and fearing the reward of his lewd dealings, fled away into the woods. But Proclamation made, that whosoeuer could bring <hi>Iacke</hi> aliue or dead to the King, should haue a thousand Markes for his paines, was after slaine by a Gentleman in Kent, and so brought to the King.</p>
+            <p>But <hi>Roberts</hi> kept himselfe in the woods closely a long time after, although not with so great a company as he had before, and there liued by robbing and spoyling in the night, and kept themselues close in all the day. And thus by the space of a twelue moneth, they passed their time in villany, robbing and spoyling the Country peo<g ref="char:EOLhyphen"/>ple of their poultry, pigges and other sustenance, where<g ref="char:EOLhyphen"/>with they sustained themselues and their families. In
+<pb facs="tcp:176953:24"/> which time he set downe lawes and customes to be kept and obserued among them, and to kéepe them in awe and fashion, who are prone of themselues to liue out of all rule and fashion.</p>
+            <list>
+               <item>
+                  <hi>1</hi> First he appointed that of euery thing that they got, he had first the taking and leauing of the best thereof at his pleasure.</item>
+               <item>
+                  <hi>2</hi> That if any of their fellowes could not purchase any victuals or necessities for foode that night, that then they shold be in cōmons with the rest the day following.</item>
+               <item>
+                  <hi>3</hi> That no robbery or violence bee vsed vpon any man within foure miles of the wood, or the place of their aboade.</item>
+               <item>4 That none be so hardy, as to run to the wood for succor or reléefe, after he hath perpetrated any thing, lest that hugh and crie follow, and so discrie the whole com<g ref="char:EOLhyphen"/>pany.</item>
+            </list>
+            <p>Thus after a yeare and vpward was spent by them in this sort, they brake vp their Campe, and Proclamati<g ref="char:EOLhyphen"/>on was made, to méete there in that place euery thrée yeares for a memoriall, if they then liued: In the meāne time they spread themselues abroad in the Countrey, some remaining there, others trauelling North-ward, and ioyne themselues with the Duke of Yorke, and ge<g ref="char:EOLhyphen"/>nerally in all Commotions and rebellions. These in me<g ref="char:EOLhyphen"/>mory of there first acquaintance and loue to their new found Captaine, called themselues by the name of <hi>Ro<g ref="char:EOLhyphen"/>berts-men,</hi> as the seruants of <hi>Hugh Roberts</hi> their Com<g ref="char:EOLhyphen"/>maunder.</p>
+            <p>This <hi>Roberts</hi> liued rouing vp &amp; down the country for the space of ten years: in which time he kept his Court daies as himselfe listed, and in which time there came to him diuers new followers, and as some decay<g ref="char:EOLhyphen"/>ed and died, some hanged &amp; dead of the poxe (for to that end they all come) so others succéeded in their places.</p>
+            <p>In the first yeare of <hi>Edward</hi> the fourth, this <hi>Roberts</hi> in
+<pb facs="tcp:176953:24"/> the warres against <hi>Henry</hi> the sixt in the North partes (who was deposed) was there slaine, besides <hi>36776.</hi> per<g ref="char:EOLhyphen"/>sons all Englishmen.</p>
+            <p>Hereupon presently (their late Captaine now dead) all that were left aliue of this company, hye themselues to their wonted place of méeting, where, by the generall assent, they chose one <hi>(Ienkin Cowdiddle)</hi> to bee their ring-leader.</p>
+            <p>This <hi>Ienkin Cowdiddle</hi> was a man giuen much to swearing, drunkennesse and lechery:<note place="margin">Ienkin Cow<g ref="char:EOLhyphen"/>diddle. 2.</note> he was neuer out of England as souldier or traueller, but from his first be<g ref="char:EOLhyphen"/>ginning he continued a wandring rogue, he was stout of stomacke, audacious and fierce, hee was knowne to all the damned crew for a boone companion, and therefore chosen as fittest for their Captaine: hee first ordained, that none were so hardy as to haue the vndooing of a maid wanderer, or any thing to do with her, vnlesse first she were brought to him to be broken vp, or to some of his assignes, that could obtain the same of him by friend<g ref="char:EOLhyphen"/>ship or bribery.</p>
+            <p>Hee commaunded likewise that all beggers should spend all their gettings in the day past,<note place="margin">A Custome.</note> in good Béere or Ale at night, or at the fardest by saterday night: and if any were found or knowne to haue aboue two pence half peny in his purse on munday morning, he shold for<g ref="char:EOLhyphen"/>feit a dousen of béere, to any whatsoeuer of their compa<g ref="char:EOLhyphen"/>ny would challenge it. He exercised his commaund about tenne yeares, vntill the time that the great rebel<g ref="char:EOLhyphen"/>lion and vprore was in the Western parts, as Summer<g ref="char:EOLhyphen"/>setshire, Wilshire, Dorset-shire and Cornewall, about the crowning of Prince <hi>Edw.</hi> son to K. <hi>H. 6.</hi> who had béen all this while in France: and this fell out about the <hi>11.</hi> yeare of <hi>Edw. 4.</hi> then this <hi>Ienkin Cowdiddle</hi> accompanied with <hi>300.</hi> tottered knaues,<note place="margin">Edw. 4.11. yeer 1471.</note> ioyned in battell against the K. with the westerne men, in which battell at Teuxbury he was slaine, and buried there with the rest of the dead bodies.</p>
+            <pb facs="tcp:176953:25"/>
+            <p>The battel ended, these <hi>Robert-men</hi> (for so they were termed a long time after) hye them to their Kandauow, their vsuall and knowne place,<note place="margin">Spising 3.</note> and there with the full consent of the whole company, They chose one <hi>Spysing</hi> to be his successour.</p>
+            <p>And now when as the feast and solemnizing of this new made squire was newly ended, news was brought to this <hi>Spising,</hi> how that one <hi>Thomas Neuell</hi> sonne to <hi>Fankenbridge</hi> (who had béene at Sea as a Pirate, and robbed diuers Merchants) was newly arriued in Eng<g ref="char:EOLhyphen"/>land, and got a great company of Marriners out of all parts of the land, and many traytors and misgouerned people to follow him, whereunto as fitly for his turne this <hi>Spising</hi> accompanies and enters into league and fa<g ref="char:EOLhyphen"/>miliarity, besides diuers also forth of other Countries that delighted in theft and robberies.</p>
+            <p>And now his strength encreased daily, for hauing bin at Callice, and brought from thence into Kent many e<g ref="char:EOLhyphen"/>uill disposed persons, he began to gather his power in that Country, meaning to attempt some great and wic<g ref="char:EOLhyphen"/>ked enterprise against King <hi>Edward</hi> and his Kingdome, but his quarrell he pretended, was to haue King <hi>Henry</hi> the sixt out of the Towre, and to restore him to his Scep<g ref="char:EOLhyphen"/>ter againe. Thus accompanied with seuentéene thou<g ref="char:EOLhyphen"/>sand men, they marched into London by shippes which lay betwéene Blacke wall and Redriffe: and then came <hi>Spising</hi> with his hand at Algate, who behaued them<g ref="char:EOLhyphen"/>selues stoutly, that they wan the Bulwarke there, and draue the Citizens backe within the Port cullis, and en<g ref="char:EOLhyphen"/>tred the gate with them to the number of a dousen; but some of them were slaine with the fall of the Port cullis, that was let downe vpon them to kéepe the residue out: but those that were within the wals was suddenly dis<g ref="char:EOLhyphen"/>patcht.</p>
+            <p>To be short, at last the Bastard was vanquished and vtterly dispaired; for hearing the King comming with
+<pb facs="tcp:176953:25"/> thirtie thousand men, durst stay no longer, but brake vp and dispersed themselues some one way, and some ano<g ref="char:EOLhyphen"/>ther. The Bastard with his Mariners and such rebels, robbers &amp; wicked persons, as sought nothing but spoile, got them to Ship-board as fast as they could. Those that were left behinde, and those of <hi>Spysings</hi> company lurked a day or two about the Contrey secretly in woods, vn<g ref="char:EOLhyphen"/>till they thought the coastes to be clear, and after met at their wonted place, where they, as merry as pot and canne passe their time in villany and robbery.</p>
+            <p>This <hi>Spising</hi> was a man giuen to voluptuousnesse, pleasure, and delight in Bowsing and Venery: He or<g ref="char:EOLhyphen"/>dered, that euery one that professed himselfe a Wande<g ref="char:EOLhyphen"/>rer, and taking vpon him the occupation of begging, shal be stauled to the order of rogues; that is,<note place="margin">A Custome.</note> hee shall bee brought to the chiefe Commander then being, and there he shall shew the cause of his going abroad, and what Countrey man he is: which done, he payes a dousen of béere as a fine for his fréedome and Instaulment, and so is permitted to liue and die a rogue: but if he be borne a rogue: that is, if his Grandfather were one, so that con<g ref="char:EOLhyphen"/>sequently he must be one also, such a one shall bee fréely discharged from such enstaulement, as being made frée by his fathers copie. This <hi>Spising</hi> about the first yeare of King <hi>Edward</hi> the fift, committed a robbery and murder (néere High-gate in Middlesex) where after he fledde and tooke sanctuary at Westminster,<note place="margin">K. Edw. 5.3, 1483.</note> for these places in that time were wonderfully abused by wicked men: rable<g ref="char:EOLhyphen"/>ments of Théeues, Murderers and Traytors would thither flocke when they had atchieued any villany, vn<g ref="char:EOLhyphen"/>thrifts ryot and runne in debt vpon boldnesse of these places, rich men runne thither with poore mens goods; there they build and there they spend, and bid their cre<g ref="char:EOLhyphen"/>ditors goe whistle, mens wiues runne thither with their husbands plate, and say they dare not abide with their husbands, for feare of beating: Theeues bring in thi<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:176953:26"/> their stolne goods, and there liue vpon them vntill al is spent, and when nothing is left, they againe in the night range abroad to séeke other booties: there they de<g ref="char:EOLhyphen"/>uise new plots to rob and kill, and then to come in again at their pleasure: so those places did not only giue them safegard for their villanies, but a license also to do more. Such a one was this <hi>Spysing</hi> for a yeare or two before he was hanged; for being taken the second time at Wom<g ref="char:EOLhyphen"/>burne in Stafford shire, for killing a man in a drunken humour, was presently apprehended, and carried to the Goale, and after hanged all saue the head: he Dominée<g ref="char:EOLhyphen"/>red about eleuen yeares.</p>
+            <p>Not long after, when certaine newes was blased a<g ref="char:EOLhyphen"/>broad of their Captaines confusion, they chose a nota<g ref="char:EOLhyphen"/>ble swaggering rogue called Puffing <hi>Dicke,</hi> to reuell o<g ref="char:EOLhyphen"/>uer them,<note place="margin">Puffing Dicke the fourth.</note> who plaid reuell rout with them indéede: in this Squire there were no villanies left vnattempted, but he was still at the one end.</p>
+            <p>He first gaue termes to robbers by the high way, that such as robbe on horse-backe were called high lawy<g ref="char:EOLhyphen"/>ers,<note place="margin">2. Sorts of robbers by the way. The first sort.</note> and those who robbed on foote, he called Padders: the difference of these two sorts of villanes is this.</p>
+            <p>The first sort are called Gent. robbers or théeues; and these ride on horses well appointed, and goe in shew like honest men: the other robbe on fooke, and haue no other helpe but a paire of light héeles and a thicke woode, Concerning the first sort, that delight in the credite of a high Lawyer, that with their swords fréeboote abroad in the countrey like Cauileroes on horse-backe, are com<g ref="char:EOLhyphen"/>monly such men, that eyther are younger brethren, who being brought vp in idlenesse and gaming, when their friends are dead, do fall to this kind of life to maintaine the maine chance: others againe being left well by their friends, hauing no gouernement of themselues, but ban<g ref="char:EOLhyphen"/>queting with Whores, and making late suppers, doe greatly impouerish and begger themselues: and when
+<pb facs="tcp:176953:26"/> all is spent after this manner, and their money wasted like snow against the Sunne: they for their <hi>Vltimum re<g ref="char:EOLhyphen"/>fugium,</hi> as forced to vndertake this wretched and abhor<g ref="char:EOLhyphen"/>red profession, robbing honest poore men, and taking all their money from them, yea and often more then is their owne, to the vtter vndoing of their poore man, his wife and children for euer, who when they haue it, wast it as vain<g ref="char:EOLhyphen"/>ly as they wickedly purchast it. And others, that hauing béene souldiers when they come from the warres, ey<g ref="char:EOLhyphen"/>ther by breaking vp of the Campe, or by running away from their colours to sée their friends, or what way soe<g ref="char:EOLhyphen"/>uer, cannot betake themselues to any honest trade of life, but louing to liue in idlenesse, betake themselues to rob<g ref="char:EOLhyphen"/>bing and stealing, vntill they be taken and carried west<g ref="char:EOLhyphen"/>ward there to make their rehersall.</p>
+            <p>These fellowes first that they may not be knowne, be<g ref="char:EOLhyphen"/>speake and get such artificial beards and heads of haire, that although you ride, dine, and sup with them from day to day, you shall not be able to discerne them, nor e<g ref="char:EOLhyphen"/>spie their falshood. And in this practise all their villany consists: for I haue heard and partly know a high-way lawyer rob a man in the morning, and hath dined with the martin or honest man so robbed the same day at an Inne being not descried, nor yet once mistrusted or su<g ref="char:EOLhyphen"/>spected for the robbery.</p>
+            <p>Their knauery is on this manner; they haue alwaies good geldings and trusty, which they can make Cur<g ref="char:EOLhyphen"/>tailes when they list, and againe set too large tailes, hanging to the fetlockes at their pleasure, yea and so ar<g ref="char:EOLhyphen"/>tificially, that it shall not be perceiued or spied of the Ostler that dresseth them: besides they haue clokes <hi>Tor<g ref="char:EOLhyphen"/>mosant,</hi> as they call them, made with two out-sides, that weare them howsoeuer the right side will bee alwaies outward: now their artificiall beards and heads of haire withall, will make them séeme to dance in a net a long time ere they be espied. Now how easie it is for
+<pb facs="tcp:176953:27"/> them to escape all dangers, all Hues and Cries, it may easily be perceiued, for the complexion of the man, and his beard, the garments that he weares, and the making of his horse, thrée things which are the especiall markes whereby notice is taken to make enquiry: which being chaunged and altered, they may escape as safely as they did the robbery.</p>
+            <p>The other sort of robbers, that hauing no meanes to relieue them, in stead of swift courses to eschue danger, flie away vpon their trustie tenn-toes into woodes and close places, there to continue vntill Hue and Crie bee past: these fellows we are counterfeit beards and heads of haire, as the other sort doe, vsing not many words, but <hi>Stand and deliuer:</hi> some will haue curst and man kind Masties following them, to further and helpe them in this enterprise: some vnder the name of the vpright man or souldier as they goe through townes, begge the chari<g ref="char:EOLhyphen"/>table deuotion of people, they will goe also strongly with thrée or foure in a company to a farme house, where of<g ref="char:EOLhyphen"/>tentimes they are relieued more for feare then deuotion: but when they can come in place where they may con<g ref="char:EOLhyphen"/>ueniently take a purse, it shall goe hard but that they will eyther win the horse or loose the saddle▪ although their hardy aduenture be paid home with a cracke of the best ioynt they haue after.</p>
+            <p>
+               <note place="margin">The first cou<g ref="char:EOLhyphen"/>soner at dice.</note>But to returne againe to <hi>Puffing Dicke;</hi> this diuell incarnate, as he was bold to attempt any wicked enter<g ref="char:EOLhyphen"/>prise, so he wanted not wit first to lay the plot to atchieue it, and to bring it to passe. He vsed first the cousenage at dice, and to inuent for that purpose false dice, whereby he got much money. But as it was ill got, so was it as ill spent in all manner of vice that could bee named, wherein he excelled all before him: yet this by the way, it is reported of him, that he was frée from murder, and commanded, that whosoeuer vnder his conduct, was so cruell as to murder any man or woman in the attempt
+<pb facs="tcp:176953:27"/> of robbing them, should forthwith be discouered to be ap<g ref="char:EOLhyphen"/>prehended: he likewise ordered that all high lawyers, padders, Lifts, Foists, Cheaters or Cony-catchers,<note place="margin">A Custome.</note> shal not presume to purchase any landes or reuenues, nor whord vp their money to the hinderance of good fellow<g ref="char:EOLhyphen"/>ship, maintenance of good natured damsels, and im<g ref="char:EOLhyphen"/>peachment of the fraternity: but that they shall hearti<g ref="char:EOLhyphen"/>ly spend it, among good company and fellowes, such as themselues are, and as they came lightly by it, so lightly to let it flie: he was a man crafty and bolde, yet he died miserably; for after he had commanded now fully eight years, he had the pyning of the Poxe and Neapolitane Scurffe. And here an end of <hi>Puffing Dicke.</hi>
+            </p>
+            <p>
+               <note place="margin">Lawrence Crosbiter 5. The first in<g ref="char:EOLhyphen"/>uenter of crosbiting.</note>In his place was chosen by the consent of the rable<g ref="char:EOLhyphen"/>ment, one not much inferiour in vice to the former, but in regard of manhood a méere crauant, called <hi>Lawrence Crosbiter,</hi> or long <hi>Lawrence.</hi> This <hi>Lawrence</hi> had béene brought vp all his daies a Seruing-man, and now being about fiftie or thrée score, at what time Seruingmen are past the best, and commonly grow lasie, was cast out of seruice, and so was faine to liue among the wicked, sometimes a stander for the padder, sometimes a verser for the cony-cacher, somtimes a stale for a foyst, but most commonly an Apple-squire for a trudging house: he first vsed that art which now is named Crosbiting, and from whose name, this damned art (Crosbiting) tooke her first call, as of <hi>Lawrence Crosbiter</hi> that first inuented the same. The manner in breefe is thus: Some base rogue without the feare of God or man, that kéepeth a whore as a friend, or marries one to be his maintainer, consents or constraines those creatures to yéelde the vse of their bodies to other men, that so taking them together, they may strip the leacher of all the money in his purse or that he can presently make.</p>
+            <p>He commaunded about sixe yeares, and then as he li<g ref="char:EOLhyphen"/>ued in filthinesse, so was his end, for it was reported that
+<pb facs="tcp:176953:28"/> his bowels were eaten out with the poxe, whilst he was yet aliue, so miserable was the end of this wretch.</p>
+            <p>All these sixe yeares that this <hi>Lawrence</hi> liued in his controulment, he durst neuer be so hardy as once to aide <hi>Perken VVarbeck,</hi> in the attempting of the Crowne: so slauish was his mind, and giuen to cowardize, for all the time that he bare rule among his companions, which was from <hi>1491.</hi> vntil <hi>1497.</hi> did <hi>Perkin VVarbeck</hi> assay to win the kingdom, fayning himselue to bee the Duke of Yorke, son to K. <hi>Edw. 4.</hi> deceased: to the bringing to passe of which deuise, he assayed many waies, plotted diuers deuises, and attempted mighty matters, and yet all in vaine, for after almost sixe yeares (all which time he was busied about this enterprise) he was taken prisoner, af<g ref="char:EOLhyphen"/>ter he had taken Sanctuary at Bewdly not farre from Southampton.</p>
+            <p>To set down the whole story of this <hi>Perkin Warbeck</hi> it would be long, &amp; besides from the matter now in hand: but because the sequell of the story a little concerneth vs, I will bréefely runne it ouer: and thus it was.</p>
+            <p>
+               <note place="margin">Perkin War<g ref="char:EOLhyphen"/>beck his pede<g ref="char:EOLhyphen"/>gree.</note>He was a man base of stocke, a Flemin by birth, and prouoked to faine himselfe the sonne of K. <hi>Edward 4.</hi> by the Duches of Burgony, sister to King <hi>Edward 4.</hi>
+            </p>
+            <p>He first went into Ireland out of Fraunce, to entice the Irish to rebell, after called backe by the French King to goe against King <hi>Henry</hi> the seuenth then inua<g ref="char:EOLhyphen"/>ding Fraunce: after this he lands in Kent, purposing to prooue the people, how they were affected towards him: hereupon hee sends some of his men out of the Shippes to know their minds: but they were sudden<g ref="char:EOLhyphen"/>ly taken by the Sheriffe of Kent, and railed in ropes like horses in Carts, were adiudged most to be hanged; but <hi>Perkin</hi> hoysts vp his sails at these tydings,<note place="margin">Sayles into Scotland and marries the Kings kinse<g ref="char:EOLhyphen"/>woman.</note> &amp; away sailes he again into Ireland, where he staies not long, being a place not sit for his turne, the people being poore &amp; naked, he sayles into Scotland, where after a smooth long Ora<g ref="char:EOLhyphen"/>tion,
+<pb facs="tcp:176953:28"/> to the King hee is royally entertained by the said King: afterward the King to perswade the world y<seg rend="sup">e</seg> all was true, espouseth the La. <hi>Katharine,</hi>
+               <note place="margin">He goes a<g ref="char:EOLhyphen"/>gainst Engl.</note> daughter to <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> Earle of Huntley his nigh kinseman, to him: then go they both against England, wasting all Northumber<g ref="char:EOLhyphen"/>land, &amp; committing many outrages and enormities:<note place="margin">Retyres.</note> but when they saw no aid to come from England they retire; after <hi>Perkin</hi> (vpon the truce betwéen England and Scot<g ref="char:EOLhyphen"/>land) with his wife saile into Ireland again:<note place="margin">After into Cornewall.</note> from thence cuts ouer into Cornwal, wher he gathered to him aboue <hi>3000.</hi> persons, all promising him to take his part, and fol<g ref="char:EOLhyphen"/>low him till death.</p>
+            <p>
+               <note place="margin">His three Councellors.</note>First then by the aduise of his Councellours, <hi>Iohn Heron</hi> Mercer, a Bankrout, <hi>Richard Skelton</hi> a Taylor, and <hi>Iohn Asteley</hi> a Scriuener, they assay the winning of Exeter, where for lacke of Munition for Warre, and Ordnance to breake open the Gates, they endeuoured by casting of stones,<note place="margin">They assay to win Exet.</note> lifting with I<g ref="char:EOLhyphen"/>ron barres, and kindling of fires vnder the Gates, to bring to passe their purpose: much a doo there was heere about this enterprise: But when hee heard the King comming with his power, hee remooues to Taunton, and the King after him:<note place="margin">He takes San<g ref="char:EOLhyphen"/>ctuary at Bewdley.</note> vppon this hee flies to Bewdley, and there takes Sanctuary, but after péeldes himselfe to the mercy of the King, who being deliuered to the Kings Guard carefully to be kept, not<g ref="char:EOLhyphen"/>withstanding escapeth, and thought to get ouer into Flanders: but the Sea coasts being all laid that he could not passe, he was in a great perplexity, came backe to the Prior of Shéene besides Richmond, and there in<g ref="char:EOLhyphen"/>treats the Prior, euen for Gods sake to beg his life of the King: The K. at the request of the Prior pardoned him, but was set in the stocks at Westminst. hal doore a whole day, &amp; so like wise y<seg rend="sup">t</seg> next day was he set on a Scaffold at the Standard in Cheapside, with many mocks &amp; reui<g ref="char:EOLhyphen"/>lings cast against him: being now in hold again by false
+<pb facs="tcp:176953:29"/> perswasions and great promises corrupted his kéepers, and would haue fledde away, but his purposes being knowne,<note place="margin">Executed at Tyburne.</note> he was at last apprehended, taken, and executed at Tiburne, he and his kéepers. And this is the end of <hi>Perkin Warbecke: Lawrence Crosbiter</hi> now dead, and <hi>Perkin VVarbecke,</hi> with two of his Councellors <hi>Hearne</hi> and <hi>Asteley,</hi> fledde to Sanctuary: it booted not the com<g ref="char:EOLhyphen"/>pany to stay there,<note place="margin">1497.</note> but their chiefe leaders fledde, euerie one threw away his armour as people amazed, and be<g ref="char:EOLhyphen"/>take themselues to their heeles: among the rest <hi>Skelton</hi> a notable knaue, one of <hi>Perkins</hi> Councellors before menti<g ref="char:EOLhyphen"/>oned,<note place="margin">H. 7.13.</note> being well knowne among the Rascalitie, was led to the wonted place of méeting, and there solemnely was stawled a rogue, and made their generall.</p>
+            <p>This <hi>Skelton</hi> was sometimes a Taylor in Taunton in Sommerset shire,<note place="margin">Skelton 6.</note> who being blowne downe with an vnfortunate blast, was forc't and ready for any Commo<g ref="char:EOLhyphen"/>tion or rebellion: he was of a proude and haughty dispo<g ref="char:EOLhyphen"/>sition: he liued in this new Gouernment vntill about the fourth yeare of King <hi>Henry</hi> the right, which was in the yeare <hi>1501.</hi>
+            </p>
+            <p>This fellow among other decrées and orders confir<g ref="char:EOLhyphen"/>med this: That if any one vsing the necessary helpe of his crutches (although indéede hee hath not any néede or vse of them,<note place="margin">A custome.</note> but onely to deceiue people therewith) shall at any time forsake them for a time, either to runne for a wager with another, or to play at nine holes, loggets or bowles, or any other game, so that he be séene and mar<g ref="char:EOLhyphen"/>ked by some that haue séene him else-where with his crooches halting, and by them so challenged for a coun<g ref="char:EOLhyphen"/>terfeit rogue, he shall forfeite for euery such offence two dousen of béere, as a fine for disgracing so ancient a trade as peregrination.</p>
+            <p>After him succéeded by the Generall Councell, one <hi>Cocke Lorrell,</hi>
+               <note place="margin">Cock Lorrell 7 K. H. 8.4.1511.</note> the most notorious knaue that euer liued: by trade he was a Tinker, often carrying a panne and a
+<pb facs="tcp:176953:29"/> hammer for a shew: but when he came to a good booty, he would cast his profession in a ditch, and play the pad<g ref="char:EOLhyphen"/>der and then would away, and as hee past through the towne, would crie, Ha you any worke for a Tinker. To write of his knaueries, it would aske a long time: I re<g ref="char:EOLhyphen"/>ferre you to the old manuscript, remayning on record in maunders hall.</p>
+            <p>This was he that reduced and brought in forme the Catalogue of Vagabonds or quarterne of knaues called the fiue and twentie orders of knaues:<note place="margin">The quarters of knaues made by Cock Lorrell.</note> but because it is extant and in euery mans shop, I passe them ouer.</p>
+            <p>And now about this time, when as warres abroade, and troubles domesticall were ended, swarmed in euery part of the land these Caterpillers, like slies against a plague: in the northerne partes another sort of Vaga<g ref="char:EOLhyphen"/>bonds (at the diuels-arse-a-peake in Darbishire) began a new regiment,<note place="margin">Aegyptians,</note> calling themselues by the name of Egip<g ref="char:EOLhyphen"/>tians: These were a sort of rogues, that liued and do yet liue by cousening and deceit, practising the arte called le<g ref="char:EOLhyphen"/>gerdemaine, or fast and loose, whereby they got to them<g ref="char:EOLhyphen"/>selues no small credite among the Countrey people by their déepe dissembling and deceitfull practises, féeding the common people wholly addicted and giuen to no<g ref="char:EOLhyphen"/>uelties, toyes and new fangles, delighting them with the strangenesse of the attire of their heads, and practi<g ref="char:EOLhyphen"/>sing palmistry to such as would know their fortunes.</p>
+            <p>The first that inuented this new fellowship was one <hi>Giles Hather:</hi> he carried about with him his whore cal<g ref="char:EOLhyphen"/>led (<hi>Kyt Calot</hi>) which was termed the Quéene of Egip<g ref="char:EOLhyphen"/>ties:<note place="margin">Kyt Calot.</note> they goe alwaies neuer vnder an hundred men or women, causing their faces to be made blacke, as if they were Egyptians: they wander vp and down the Coun<g ref="char:EOLhyphen"/>try as it pleaseth them best, with their horses to carry their bastards and baggage after them: and when they come into any countrey towne, they pittifully cousen the
+<pb facs="tcp:176953:30"/> poore countrey girles, both of money, siluer and the best linnen onely in hope to heare their good fortunes tould them.</p>
+            <p>
+               <note place="margin">Read of these in the first pag</note>After a certaine time that these vp-start Lossels had got vnto a head; the two chiefe Commaunders of both these regiments met at the Diuels-arse-a-peake, there to parle and intreate of matters that might tend to the establishing of this their new found gouernment: and first of all they thinke it fit to deuise a certaine kinde of language,<note place="margin">Canting, when brought vp.</note> to the end their cousenings, knaueries and vil<g ref="char:EOLhyphen"/>lanies might not be so easily perceiued and knowne, in places where they come: And this their language they spunne out of thrée other tongues, <hi>viz.</hi> Latine, English, and Dutch: these thrée especially, nothwithstanding some few words they borrowed of the Spanish and French. They also gaue names to such persons of their company according to the kind of life that he vndertooke: as for ex<g ref="char:EOLhyphen"/>ample, A common begger or rogue, they termed a Clap<g ref="char:EOLhyphen"/>per-dudgeon, one that counterfeited the falling sicknes, they termed him a counterfeit Cranke, for Cranke in their language is the falling sickenesse, and so Counter<g ref="char:EOLhyphen"/>feit Cranke is the false falling sickenesse: and so of the rest.</p>
+            <p>This <hi>Cocke Lorrell</hi> continued among them longer then any of his predecessours before him, or after him: for he ruled almost two and twentie yeares, vntil the yeare <hi>An. Dom. 1533.</hi> and about the sixe and twenty yeare of K. <hi>Henry</hi> the eight.</p>
+            <p n="1">1 He made among other,<note place="margin">Orders.</note> these Statutes among them, that whosoeuer he be, that being borne and bred vp in the trade of maunding, nipping and foisting for the space of tenne years, and hath not the right dexterity in his fingers to picke a pocket, but is faine to cloy his fellowes, and cowarly to demand scrappage; such a one is to be knowne and brought hither to be fined for his
+<pb facs="tcp:176953:30"/> faint-heartednesse: and it such a one after venter and be taken vpon the first fault, let him know, that he is going the high way to perdition without pitty, as a iust pu<g ref="char:EOLhyphen"/>nishment for his folly, that he betooke himselfe so soone to the occupation.</p>
+            <p n="2">
+               <hi>2. Item,</hi> We thinke it méet that none eate meat, as Pigges, Capons, Géese or such like, vnlesse he purchase it by priuie pilfery and cleanely conueyance, neither shal they be merry in euery Bowsing Ken or Alehouse as they list, but in some odde out-house remote from dwel<g ref="char:EOLhyphen"/>lers: a Stawling ken that is knowne of purpose to be trusty, yea and that in the night too, least they be notifi<g ref="char:EOLhyphen"/>ed and suspected, to the scandalizing of the profession: neither shall they be merry out of measure, least by their extraordinary noyses, the Constable and Watch men take them, and so carry them to ward, as a iust punish<g ref="char:EOLhyphen"/>ment for their presumptuous and vnordinate procéed<g ref="char:EOLhyphen"/>ings: for which some of late daies haue wofully felt the smart.</p>
+            <p>Captaine <hi>Giles Hather</hi> first beganne in <hi>Anno Domini</hi> one thousand fiue hundred twenty and eight: concerning whom, there is nothing made mention of, but of his cou<g ref="char:EOLhyphen"/>sonage and deceit, for these kinde of people liued more quietly and out of harme in respect of the other sort, ma<g ref="char:EOLhyphen"/>king themselues as strangers, and would neuer put forth themselues in any tumult or Commotion, as the other sort did: but what vice they exercised not one way, they were not inferiour to them in the like, or ra<g ref="char:EOLhyphen"/>ther worse another way; so that what betwéene them both, they were two pestiferous members in a Com<g ref="char:EOLhyphen"/>mon-wealth: but I will leaue them both, and pray for a prosperous winde to bring my Barke to the wished port of her desire, which is to be fauoured and well liked of in your sight: which if good fortune fauour me so much, I shall be bouldened once more to play the Merchant ven<g ref="char:EOLhyphen"/>turer:
+<pb facs="tcp:176953:31"/> at whose second arriuall I will present you with things more strange, not farre fetcht but déerely bought, and wherein, if license may be permitted, I will procéed and set downe the successours from <hi>Cocke Lorrell</hi> vntill this present day, and who at this day beares the greatest sway amongst them.</p>
+            <p>
+               <hi>FINIS.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
